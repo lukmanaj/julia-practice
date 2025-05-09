@@ -1,0 +1,3155 @@
+Date,State,Centre,Retail Price
+JAN-2001,Bihar,Hajipur,5.0
+JAN-2001,Bihar,Muzaffarpur,3.0
+JAN-2001,Bihar,Patna,5.0
+JAN-2001,Punjab,Amritsar,2.0
+JAN-2001,Punjab,Bhatinda,3.0
+JAN-2001,Punjab,Ludhiana,3.0
+FEB-2001,Bihar,Hajipur,3.0
+FEB-2001,Bihar,Muzaffarpur,3.25
+FEB-2001,Bihar,Patna,3.0
+FEB-2001,Punjab,Amritsar,2.0
+FEB-2001,Punjab,Bhatinda,4.0
+FEB-2001,Punjab,Ludhiana,3.0
+MAR-2001,Bihar,Muzaffarpur,3.5
+MAR-2001,Punjab,Amritsar,4.0
+MAR-2001,Punjab,Ludhiana,4.0
+APR-2001,Bihar,Muzaffarpur,5.0
+MAY-2001,Bihar,Muzaffarpur,5.5
+JUN-2001,Bihar,Muzaffarpur,7.5
+JUL-2001,Bihar,Muzaffarpur,7.5
+JUL-2001,Punjab,Amritsar,8.0
+AUG-2001,Bihar,Muzaffarpur,8.0
+AUG-2001,Punjab,Amritsar,6.0
+SEP-2001,Bihar,Muzaffarpur,8.0
+SEP-2001,Bihar,Patna,8.0
+SEP-2001,Punjab,Amritsar,6.0
+OCT-2001,Bihar,Muzaffarpur,9.0
+OCT-2001,Bihar,Patna,10.0
+OCT-2001,Punjab,Amritsar,6.0
+NOV-2001,Bihar,Muzaffarpur,9.0
+NOV-2001,Bihar,Patna,10.0
+NOV-2001,Punjab,Amritsar,6.0
+DEC-2001,Bihar,Muzaffarpur,8.0
+DEC-2001,Bihar,Patna,10.0
+DEC-2001,Punjab,Amritsar,6.0
+JAN-2002,Bihar,Hajipur,6.0
+JAN-2002,Bihar,Muzaffarpur,5.5
+JAN-2002,Bihar,Patna,6.0
+JAN-2002,Punjab,Amritsar,6.0
+FEB-2002,Bihar,Hajipur,4.5
+FEB-2002,Bihar,Muzaffarpur,5.0
+FEB-2002,Bihar,Patna,5.0
+FEB-2002,Jammu Kashmir,Jammu,8.0
+FEB-2002,Punjab,Amritsar,6.0
+FEB-2002,Punjab,Ludhiana,6.0
+MAR-2002,Bihar,Muzaffarpur,5.0
+MAR-2002,Bihar,Patna,6.0
+MAR-2002,Jammu Kashmir,Jammu,8.0
+MAR-2002,Punjab,Amritsar,6.0
+MAR-2002,Punjab,Ludhiana,6.0
+APR-2002,Bihar,Hajipur,6.0
+APR-2002,Bihar,Muzaffarpur,5.5
+APR-2002,Bihar,Patna,6.0
+APR-2002,Jammu Kashmir,Jammu,7.0
+APR-2002,Punjab,Amritsar,6.0
+APR-2002,Punjab,Ludhiana,6.0
+MAY-2002,Jammu Kashmir,Jammu,8.0
+MAY-2002,Punjab,Amritsar,6.0
+MAY-2002,Punjab,Ludhiana,7.0
+JUN-2002,Bihar,Hajipur,5.0
+JUN-2002,Bihar,Muzaffarpur,7.5
+JUN-2002,Bihar,Patna,7.0
+JUN-2002,Jammu Kashmir,Jammu,10.0
+JUN-2002,Punjab,Amritsar,6.0
+JUN-2002,Punjab,Ludhiana,7.0
+JUL-2002,Bihar,Hajipur,7.0
+JUL-2002,Bihar,Muzaffarpur,7.5
+JUL-2002,Bihar,Patna,7.0
+JUL-2002,Punjab,Ludhiana,7.0
+AUG-2002,Bihar,Muzaffarpur,8.0
+AUG-2002,Bihar,Patna,8.0
+AUG-2002,Punjab,Ludhiana,8.0
+SEP-2002,Bihar,Hajipur,9.0
+SEP-2002,Bihar,Muzaffarpur,8.0
+SEP-2002,Bihar,Patna,9.0
+SEP-2002,Punjab,Ludhiana,10.0
+OCT-2002,Bihar,Hajipur,8.0
+OCT-2002,Bihar,Patna,8.0
+OCT-2002,Punjab,Amritsar,10.0
+OCT-2002,Punjab,Ludhiana,10.0
+NOV-2002,Bihar,Hajipur,9.0
+NOV-2002,Bihar,Muzaffarpur,10.0
+NOV-2002,Bihar,Patna,9.0
+NOV-2002,Punjab,Amritsar,10.0
+NOV-2002,Punjab,Ludhiana,10.0
+DEC-2002,Bihar,Hajipur,5.0
+DEC-2002,Bihar,Muzaffarpur,4.5
+DEC-2002,Bihar,Patna,5.0
+DEC-2002,Punjab,Amritsar,7.0
+DEC-2002,Punjab,Ludhiana,5.0
+JAN-2003,Bihar,Hajipur,4.0
+JAN-2003,Bihar,Muzaffarpur,4.5
+JAN-2003,Bihar,Patna,4.0
+JAN-2003,Jammu Kashmir,Jammu,5.0
+JAN-2003,Punjab,Amritsar,4.0
+JAN-2003,Punjab,Ludhiana,5.0
+FEB-2003,Bihar,Hajipur,4.0
+FEB-2003,Bihar,Muzaffarpur,4.5
+FEB-2003,Bihar,Patna,4.0
+FEB-2003,Jammu Kashmir,Jammu,5.0
+FEB-2003,Punjab,Ludhiana,4.0
+MAR-2003,Bihar,Hajipur,4.0
+MAR-2003,Bihar,Muzaffarpur,4.5
+MAR-2003,Bihar,Patna,4.0
+MAR-2003,Jammu Kashmir,Jammu,6.0
+MAR-2003,Punjab,Bhatinda,4.0
+MAR-2003,Punjab,Ludhiana,4.0
+APR-2003,Bihar,Hajipur,4.0
+APR-2003,Bihar,Muzaffarpur,4.0
+APR-2003,Bihar,Patna,4.0
+APR-2003,Jammu Kashmir,Jammu,6.0
+MAY-2003,Bihar,Hajipur,4.0
+MAY-2003,Bihar,Muzaffarpur,4.0
+MAY-2003,Bihar,Patna,4.0
+MAY-2003,Jammu Kashmir,Jammu,6.0
+MAY-2003,Punjab,Amritsar,4.0
+MAY-2003,Punjab,Ludhiana,5.0
+JUN-2003,Bihar,Hajipur,4.0
+JUN-2003,Bihar,Muzaffarpur,5.0
+JUN-2003,Bihar,Patna,4.0
+JUN-2003,Punjab,Ludhiana,5.0
+JUL-2003,Bihar,Hajipur,5.0
+JUL-2003,Bihar,Muzaffarpur,5.5
+JUL-2003,Bihar,Patna,5.0
+JUL-2003,Punjab,Amritsar,4.0
+JUL-2003,Punjab,Ludhiana,5.0
+AUG-2003,Bihar,Hajipur,5.0
+AUG-2003,Bihar,Muzaffarpur,4.5
+AUG-2003,Bihar,Patna,5.0
+AUG-2003,Punjab,Ludhiana,5.0
+SEP-2003,Bihar,Hajipur,5.0
+SEP-2003,Bihar,Muzaffarpur,5.0
+SEP-2003,Bihar,Patna,5.0
+SEP-2003,Punjab,Ludhiana,5.0
+OCT-2003,Bihar,Hajipur,5.0
+OCT-2003,Bihar,Patna,5.0
+OCT-2003,Punjab,Amritsar,4.0
+OCT-2003,Punjab,Ludhiana,5.0
+NOV-2003,Bihar,Muzaffarpur,6.0
+NOV-2003,Bihar,Patna,5.0
+NOV-2003,Punjab,Ludhiana,5.0
+DEC-2003,Bihar,Hajipur,5.0
+DEC-2003,Bihar,Muzaffarpur,5.0
+DEC-2003,Bihar,Patna,5.0
+DEC-2003,Punjab,Ludhiana,5.0
+JAN-2004,Bihar,Hajipur,5.0
+JAN-2004,Bihar,Patna,5.0
+JAN-2004,Punjab,Ludhiana,4.0
+FEB-2004,Bihar,Hajipur,4.0
+FEB-2004,Bihar,Muzaffarpur,3.0
+FEB-2004,Bihar,Patna,4.0
+FEB-2004,Punjab,Ludhiana,4.0
+MAR-2004,Bihar,Hajipur,4.0
+MAR-2004,Bihar,Muzaffarpur,3.0
+MAR-2004,Bihar,Patna,4.0
+MAR-2004,Punjab,Ludhiana,4.0
+APR-2004,Bihar,Hajipur,4.5
+APR-2004,Bihar,Muzaffarpur,3.0
+APR-2004,Bihar,Patna,4.5
+APR-2004,Jammu Kashmir,Jammu,5.0
+APR-2004,Punjab,Amritsar,4.0
+APR-2004,Punjab,Ludhiana,6.0
+MAY-2004,Bihar,Hajipur,4.5
+MAY-2004,Bihar,Muzaffarpur,4.5
+MAY-2004,Bihar,Patna,5.0
+MAY-2004,Jammu Kashmir,Jammu,5.0
+JUN-2004,Jammu Kashmir,Jammu,8.0
+JUN-2004,Punjab,Amritsar,4.0
+JUL-2004,Bihar,Muzaffarpur,7.5
+JUL-2004,Jammu Kashmir,Jammu,10.0
+JUL-2004,Punjab,Amritsar,4.0
+AUG-2004,Bihar,Hajipur,8.0
+AUG-2004,Bihar,Muzaffarpur,7.5
+AUG-2004,Bihar,Patna,8.0
+AUG-2004,Jammu Kashmir,Jammu,10.0
+AUG-2004,Punjab,Ludhiana,7.0
+SEP-2004,Bihar,Hajipur,7.5
+SEP-2004,Bihar,Muzaffarpur,7.5
+SEP-2004,Bihar,Patna,8.0
+SEP-2004,Jammu Kashmir,Jammu,10.0
+SEP-2004,Punjab,Ludhiana,7.0
+OCT-2004,Bihar,Muzaffarpur,8.0
+OCT-2004,Bihar,Patna,8.0
+OCT-2004,Jammu Kashmir,Jammu,10.0
+NOV-2004,Bihar,Muzaffarpur,5.0
+NOV-2004,Bihar,Patna,6.0
+NOV-2004,Jammu Kashmir,Jammu,10.0
+NOV-2004,Punjab,Ludhiana,8.0
+DEC-2004,Bihar,Patna,8.0
+DEC-2004,Jammu Kashmir,Jammu,8.0
+DEC-2004,Punjab,Amritsar,5.0
+DEC-2004,Punjab,Bhatinda,8.0
+JAN-2005,Bihar,Patna,4.0
+JAN-2005,Jammu Kashmir,Jammu,5.0
+JAN-2005,Jammu Kashmir,Shrinagar,10.0
+JAN-2005,Punjab,Bhatinda,3.0
+JAN-2005,Punjab,Ludhiana,3.0
+FEB-2005,Bihar,Patna,3.5
+FEB-2005,Jammu Kashmir,Jammu,5.0
+FEB-2005,Jammu Kashmir,Shrinagar,10.0
+FEB-2005,Punjab,Bhatinda,5.0
+FEB-2005,Punjab,Ludhiana,4.0
+MAR-2005,Bihar,Hajipur,4.5
+MAR-2005,Bihar,Patna,6.0
+MAR-2005,Jammu Kashmir,Jammu,5.0
+MAR-2005,Punjab,Amritsar,3.0
+MAR-2005,Punjab,Bhatinda,5.5
+APR-2005,Bihar,Hajipur,7.5
+APR-2005,Bihar,Patna,7.0
+APR-2005,Jammu Kashmir,Jammu,8.0
+APR-2005,Punjab,Amritsar,5.0
+APR-2005,Punjab,Bhatinda,8.0
+APR-2005,Punjab,Ludhiana,4.0
+MAY-2005,Bihar,Hajipur,7.5
+MAY-2005,Bihar,Patna,8.0
+MAY-2005,Jammu Kashmir,Jammu,8.0
+MAY-2005,Punjab,Amritsar,5.0
+MAY-2005,Punjab,Bhatinda,7.0
+JUN-2005,Bihar,Hajipur,7.5
+JUN-2005,Bihar,Patna,8.0
+JUN-2005,Jammu Kashmir,Jammu,8.0
+JUN-2005,Jammu Kashmir,Shrinagar,10.0
+JUN-2005,Punjab,Amritsar,5.0
+JUN-2005,Punjab,Bhatinda,8.0
+JUL-2005,Bihar,Hajipur,7.5
+JUL-2005,Bihar,Patna,8.0
+JUL-2005,Jammu Kashmir,Jammu,10.0
+JUL-2005,Punjab,Amritsar,8.0
+JUL-2005,Punjab,Bhatinda,8.0
+JUL-2005,Punjab,Ludhiana,7.0
+AUG-2005,Bihar,Muzaffarpur,9.0
+AUG-2005,Bihar,Patna,8.0
+AUG-2005,Jammu Kashmir,Jammu,8.0
+AUG-2005,Jammu Kashmir,Shrinagar,10.0
+AUG-2005,Punjab,Amritsar,5.0
+AUG-2005,Punjab,Ludhiana,8.0
+SEP-2005,Bihar,Gaya,7.5
+SEP-2005,Bihar,Muzaffarpur,7.0
+SEP-2005,Bihar,Patna,7.0
+SEP-2005,Jammu Kashmir,Jammu,10.0
+SEP-2005,Jammu Kashmir,Shrinagar,10.0
+SEP-2005,Punjab,Amritsar,6.0
+SEP-2005,Punjab,Ludhiana,8.0
+OCT-2005,Bihar,Patna,8.0
+OCT-2005,Jammu Kashmir,Jammu,8.0
+OCT-2005,Punjab,Amritsar,8.0
+OCT-2005,Punjab,Ludhiana,7.0
+NOV-2005,Bihar,Patna,9.0
+NOV-2005,Jammu Kashmir,Jammu,10.0
+NOV-2005,Jammu Kashmir,Shrinagar,15.0
+NOV-2005,Punjab,Ludhiana,7.0
+DEC-2005,Bihar,Patna,8.0
+DEC-2005,Jammu Kashmir,Jammu,8.0
+DEC-2005,Jammu Kashmir,Shrinagar,12.0
+DEC-2005,Punjab,Amritsar,10.0
+DEC-2005,Punjab,Ludhiana,7.0
+JAN-2006,Bihar,Patna,5.0
+JAN-2006,Jammu Kashmir,Jammu,8.0
+JAN-2006,Punjab,Amritsar,8.0
+JAN-2006,Punjab,Bhatinda,10.0
+JAN-2006,Punjab,Ludhiana,7.0
+FEB-2006,Bihar,Patna,5.0
+FEB-2006,Jammu Kashmir,Jammu,8.0
+FEB-2006,Punjab,Amritsar,8.0
+FEB-2006,Punjab,Bhatinda,9.0
+FEB-2006,Punjab,Ludhiana,7.0
+MAR-2006,Bihar,Patna,6.0
+MAR-2006,Jammu Kashmir,Jammu,10.0
+MAR-2006,Punjab,Amritsar,8.0
+MAR-2006,Punjab,Bhatinda,9.0
+MAR-2006,Punjab,Ludhiana,7.0
+APR-2006,Bihar,Patna,7.0
+APR-2006,Jammu Kashmir,Jammu,10.0
+APR-2006,Punjab,Amritsar,8.0
+APR-2006,Punjab,Bhatinda,10.0
+APR-2006,Punjab,Ludhiana,6.0
+MAY-2006,Bihar,Patna,8.0
+MAY-2006,Jammu Kashmir,Jammu,10.0
+MAY-2006,Jammu Kashmir,Shrinagar,12.0
+MAY-2006,Punjab,Amritsar,8.0
+MAY-2006,Punjab,Bhatinda,10.0
+MAY-2006,Punjab,Ludhiana,8.0
+JUN-2006,Bihar,Patna,9.0
+JUN-2006,Jammu Kashmir,Jammu,10.0
+JUN-2006,Jammu Kashmir,Shrinagar,12.0
+JUN-2006,Punjab,Amritsar,10.0
+JUN-2006,Punjab,Bhatinda,12.0
+JUN-2006,Punjab,Ludhiana,8.0
+JUL-2006,Bihar,Hajipur,9.0
+JUL-2006,Bihar,Patna,9.0
+JUL-2006,Jammu Kashmir,Jammu,10.0
+JUL-2006,Punjab,Amritsar,12.0
+JUL-2006,Punjab,Bhatinda,10.0
+JUL-2006,Punjab,Ludhiana,10.0
+AUG-2006,Bihar,Patna,8.0
+AUG-2006,Jammu Kashmir,Jammu,12.0
+AUG-2006,Jammu Kashmir,Shrinagar,12.0
+AUG-2006,Punjab,Amritsar,10.0
+AUG-2006,Punjab,Bhatinda,10.0
+AUG-2006,Punjab,Ludhiana,10.0
+SEP-2006,Bihar,Patna,10.0
+SEP-2006,Jammu Kashmir,Jammu,14.0
+SEP-2006,Jammu Kashmir,Shrinagar,16.0
+SEP-2006,Punjab,Amritsar,12.0
+SEP-2006,Punjab,Bhatinda,12.0
+SEP-2006,Punjab,Ludhiana,12.0
+OCT-2006,Bihar,Patna,13.0
+OCT-2006,Jammu Kashmir,Jammu,13.0
+OCT-2006,Punjab,Amritsar,12.0
+OCT-2006,Punjab,Bhatinda,14.0
+OCT-2006,Punjab,Ludhiana,10.0
+NOV-2006,Bihar,Patna,12.0
+NOV-2006,Jammu Kashmir,Jammu,10.0
+NOV-2006,Jammu Kashmir,Shrinagar,16.0
+NOV-2006,Punjab,Amritsar,10.0
+NOV-2006,Punjab,Bhatinda,12.0
+NOV-2006,Punjab,Ludhiana,12.0
+DEC-2006,Bihar,Patna,5.0
+DEC-2006,Jammu Kashmir,Jammu,7.0
+DEC-2006,Jammu Kashmir,Shrinagar,16.0
+DEC-2006,Punjab,Amritsar,5.0
+DEC-2006,Punjab,Bhatinda,7.0
+DEC-2006,Punjab,Ludhiana,10.0
+JAN-2007,Bihar,Patna,4.0
+JAN-2007,Jammu Kashmir,Jammu,7.0
+JAN-2007,Jammu Kashmir,Shrinagar,16.0
+JAN-2007,Punjab,Amritsar,5.0
+JAN-2007,Punjab,Bhatinda,8.0
+JAN-2007,Punjab,Ludhiana,7.0
+FEB-2007,Bihar,Patna,5.0
+FEB-2007,Jammu Kashmir,Jammu,8.0
+FEB-2007,Punjab,Amritsar,4.0
+FEB-2007,Punjab,Bhatinda,9.0
+FEB-2007,Punjab,Ludhiana,7.0
+MAR-2007,Bihar,Patna,6.0
+MAR-2007,Jammu Kashmir,Jammu,10.0
+MAR-2007,Punjab,Amritsar,7.0
+MAR-2007,Punjab,Bhatinda,8.0
+MAR-2007,Punjab,Ludhiana,7.0
+APR-2007,Bihar,Patna,7.0
+APR-2007,Jammu Kashmir,Jammu,10.0
+APR-2007,Jammu Kashmir,Shrinagar,15.0
+APR-2007,Punjab,Amritsar,8.0
+APR-2007,Punjab,Bhatinda,10.0
+APR-2007,Punjab,Ludhiana,7.0
+MAY-2007,Bihar,Patna,8.0
+MAY-2007,Jammu Kashmir,Jammu,12.0
+MAY-2007,Jammu Kashmir,Shrinagar,15.0
+MAY-2007,Punjab,Amritsar,8.0
+MAY-2007,Punjab,Bhatinda,12.0
+MAY-2007,Punjab,Ludhiana,8.0
+JUN-2007,Bihar,Gaya,8.0
+JUN-2007,Bihar,Patna,9.0
+JUN-2007,Jammu Kashmir,Jammu,14.0
+JUN-2007,Jammu Kashmir,Shrinagar,15.0
+JUN-2007,Punjab,Amritsar,8.0
+JUN-2007,Punjab,Bhatinda,12.0
+JUN-2007,Punjab,Ludhiana,12.0
+JUL-2007,Bihar,Gaya,9.0
+JUL-2007,Bihar,Muzaffarpur,9.0
+JUL-2007,Bihar,Patna,10.0
+JUL-2007,Jammu Kashmir,Jammu,14.0
+JUL-2007,Jammu Kashmir,Shrinagar,15.0
+JUL-2007,Punjab,Amritsar,12.0
+JUL-2007,Punjab,Bhatinda,12.0
+JUL-2007,Punjab,Ludhiana,15.0
+AUG-2007,Bihar,Patna,10.0
+AUG-2007,Jammu Kashmir,Jammu,14.0
+AUG-2007,Punjab,Amritsar,10.0
+AUG-2007,Punjab,Bhatinda,12.0
+AUG-2007,Punjab,Ludhiana,15.0
+SEP-2007,Bihar,Hajipur,10.0
+SEP-2007,Bihar,Patna,10.0
+SEP-2007,Jammu Kashmir,Jammu,15.0
+SEP-2007,Punjab,Amritsar,10.0
+SEP-2007,Punjab,Bhatinda,12.0
+SEP-2007,Punjab,Ludhiana,15.0
+OCT-2007,Bihar,Patna,10.0
+OCT-2007,Jammu Kashmir,Jammu,16.0
+OCT-2007,Punjab,Amritsar,10.0
+OCT-2007,Punjab,Bhatinda,12.0
+OCT-2007,Punjab,Ludhiana,15.0
+NOV-2007,Bihar,Patna,13.0
+NOV-2007,Jammu Kashmir,Jammu,10.0
+NOV-2007,Punjab,Ludhiana,10.0
+DEC-2007,Bihar,Patna,9.0
+DEC-2007,Jammu Kashmir,Jammu,8.0
+DEC-2007,Punjab,Amritsar,10.0
+DEC-2007,Punjab,Bhatinda,10.0
+DEC-2007,Punjab,Ludhiana,7.0
+JAN-2008,Bihar,Patna,7.0
+JAN-2008,Jammu Kashmir,Jammu,10.0
+JAN-2008,Punjab,Amritsar,7.0
+JAN-2008,Punjab,Bhatinda,10.0
+JAN-2008,Punjab,Ludhiana,7.0
+FEB-2008,Bihar,Patna,5.0
+FEB-2008,Jammu Kashmir,Jammu,9.0
+FEB-2008,Punjab,Amritsar,7.0
+FEB-2008,Punjab,Bhatinda,10.0
+FEB-2008,Punjab,Ludhiana,7.0
+MAR-2008,Bihar,Patna,6.0
+MAR-2008,Jammu Kashmir,Jammu,10.0
+MAR-2008,Punjab,Amritsar,7.0
+MAR-2008,Punjab,Ludhiana,8.0
+APR-2008,Bihar,Patna,5.0
+APR-2008,Jammu Kashmir,Jammu,8.0
+APR-2008,Punjab,Amritsar,7.0
+APR-2008,Punjab,Bhatinda,10.0
+APR-2008,Punjab,Ludhiana,8.0
+MAY-2008,Bihar,Patna,5.0
+MAY-2008,Jammu Kashmir,Jammu,8.0
+MAY-2008,Jammu Kashmir,Shrinagar,13.0
+MAY-2008,Punjab,Amritsar,7.0
+MAY-2008,Punjab,Bhatinda,10.0
+MAY-2008,Punjab,Ludhiana,8.0
+JUN-2008,Bihar,Patna,7.0
+JUN-2008,Jammu Kashmir,Jammu,8.0
+JUN-2008,Punjab,Amritsar,10.0
+JUN-2008,Punjab,Bhatinda,10.0
+JUN-2008,Punjab,Ludhiana,8.0
+JUL-2008,Bihar,Patna,8.0
+JUL-2008,Jammu Kashmir,Shrinagar,9.0
+JUL-2008,Punjab,Amritsar,6.0
+JUL-2008,Punjab,Bhatinda,10.0
+JUL-2008,Punjab,Ludhiana,10.0
+AUG-2008,Bihar,Patna,8.0
+AUG-2008,Jammu Kashmir,Shrinagar,15.0
+AUG-2008,Punjab,Amritsar,10.0
+AUG-2008,Punjab,Bhatinda,8.0
+AUG-2008,Punjab,Ludhiana,10.0
+SEP-2008,Bihar,Patna,8.0
+SEP-2008,Jammu Kashmir,Jammu,12.0
+SEP-2008,Jammu Kashmir,Shrinagar,15.0
+SEP-2008,Punjab,Amritsar,7.0
+SEP-2008,Punjab,Bhatinda,6.0
+SEP-2008,Punjab,Ludhiana,12.0
+OCT-2008,Bihar,Patna,7.5
+OCT-2008,Jammu Kashmir,Jammu,10.0
+OCT-2008,Punjab,Amritsar,15.0
+OCT-2008,Punjab,Bhatinda,9.0
+OCT-2008,Punjab,Ludhiana,12.0
+NOV-2008,Bihar,Patna,7.5
+NOV-2008,Jammu Kashmir,Jammu,8.0
+NOV-2008,Punjab,Amritsar,12.0
+NOV-2008,Punjab,Bhatinda,9.0
+NOV-2008,Punjab,Ludhiana,10.0
+DEC-2008,Bihar,Patna,6.0
+DEC-2008,Jammu Kashmir,Jammu,7.0
+DEC-2008,Jammu Kashmir,Shrinagar,15.0
+DEC-2008,Punjab,Amritsar,6.0
+DEC-2008,Punjab,Bhatinda,5.0
+DEC-2008,Punjab,Ludhiana,5.0
+JAN-2009,Bihar,Patna,6.0
+JAN-2009,Jammu Kashmir,Jammu,5.0
+JAN-2009,Jammu Kashmir,Shrinagar,15.0
+JAN-2009,Punjab,Amritsar,4.0
+JAN-2009,Punjab,Bhatinda,5.0
+JAN-2009,Punjab,Ludhiana,5.0
+FEB-2009,Bihar,Patna,8.0
+FEB-2009,Jammu Kashmir,Shrinagar,10.0
+FEB-2009,Punjab,Amritsar,4.0
+FEB-2009,Punjab,Bhatinda,5.0
+FEB-2009,Punjab,Ludhiana,5.0
+MAR-2009,Bihar,Patna,10.0
+MAR-2009,Jammu Kashmir,Jammu,10.0
+MAR-2009,Jammu Kashmir,Shrinagar,10.0
+MAR-2009,Punjab,Amritsar,6.0
+MAR-2009,Punjab,Bhatinda,5.0
+MAR-2009,Punjab,Ludhiana,7.0
+APR-2009,Bihar,Patna,12.0
+APR-2009,Jammu Kashmir,Jammu,10.0
+APR-2009,Jammu Kashmir,Shrinagar,10.0
+APR-2009,Punjab,Amritsar,8.0
+APR-2009,Punjab,Bhatinda,12.0
+APR-2009,Punjab,Ludhiana,8.0
+MAY-2009,Bihar,Patna,11.0
+MAY-2009,Jammu Kashmir,Jammu,13.0
+MAY-2009,Punjab,Amritsar,8.0
+MAY-2009,Punjab,Ludhiana,10.0
+JUN-2009,Bihar,Patna,13.0
+JUN-2009,Jammu Kashmir,Jammu,14.0
+JUN-2009,Punjab,Amritsar,12.0
+JUN-2009,Punjab,Bhatinda,15.0
+JUN-2009,Punjab,Ludhiana,12.0
+JUL-2009,Bihar,Patna,15.0
+JUL-2009,Jammu Kashmir,Jammu,15.0
+JUL-2009,Punjab,Amritsar,12.0
+JUL-2009,Punjab,Bhatinda,15.0
+JUL-2009,Punjab,Ludhiana,15.0
+AUG-2009,Bihar,Patna,15.0
+AUG-2009,Jammu Kashmir,Jammu,15.0
+AUG-2009,Punjab,Amritsar,15.0
+AUG-2009,Punjab,Bhatinda,15.0
+AUG-2009,Punjab,Ludhiana,12.0
+SEP-2009,Bihar,Patna,18.0
+SEP-2009,Punjab,Amritsar,15.0
+SEP-2009,Punjab,Bhatinda,15.0
+SEP-2009,Punjab,Ludhiana,24.0
+OCT-2009,Bihar,Patna,22.0
+OCT-2009,Jammu Kashmir,Jammu,23.0
+OCT-2009,Punjab,Amritsar,20.0
+OCT-2009,Punjab,Bhatinda,20.0
+OCT-2009,Punjab,Ludhiana,20.0
+NOV-2009,Bihar,Patna,18.0
+NOV-2009,Jammu Kashmir,Jammu,17.0
+NOV-2009,Punjab,Amritsar,20.0
+NOV-2009,Punjab,Bhatinda,15.0
+NOV-2009,Punjab,Ludhiana,15.0
+DEC-2009,Bihar,Patna,18.0
+DEC-2009,Jammu Kashmir,Jammu,10.0
+DEC-2009,Punjab,Amritsar,10.0
+DEC-2009,Punjab,Ludhiana,15.0
+JAN-2010,Bihar,Patna,8.0
+JAN-2010,Jammu Kashmir,Jammu,10.0
+JAN-2010,Punjab,Amritsar,10.0
+JAN-2010,Punjab,Bhatinda,8.0
+JAN-2010,Punjab,Ludhiana,10.0
+FEB-2010,Bihar,Patna,6.0
+FEB-2010,Jammu Kashmir,Jammu,8.0
+FEB-2010,Punjab,Amritsar,7.0
+FEB-2010,Punjab,Bhatinda,8.0
+FEB-2010,Punjab,Ludhiana,10.0
+MAR-2010,Bihar,Patna,5.5
+MAR-2010,Jammu Kashmir,Jammu,8.0
+MAR-2010,Punjab,Amritsar,6.0
+MAR-2010,Punjab,Bhatinda,10.0
+MAR-2010,Punjab,Ludhiana,10.0
+APR-2010,Bihar,Patna,6.5
+APR-2010,Jammu Kashmir,Jammu,8.0
+APR-2010,Punjab,Amritsar,7.0
+APR-2010,Punjab,Bhatinda,10.0
+APR-2010,Punjab,Ludhiana,8.0
+MAY-2010,Bihar,Patna,7.0
+MAY-2010,Jammu Kashmir,Jammu,10.0
+MAY-2010,Punjab,Amritsar,7.0
+MAY-2010,Punjab,Bhatinda,10.0
+MAY-2010,Punjab,Ludhiana,8.0
+JUN-2010,Bihar,Patna,8.5
+JUN-2010,Jammu Kashmir,Jammu,10.0
+JUN-2010,Punjab,Amritsar,8.0
+JUN-2010,Punjab,Bhatinda,10.0
+JUN-2010,Punjab,Ludhiana,8.0
+JUL-2010,Bihar,Patna,9.0
+JUL-2010,Jammu Kashmir,Jammu,12.0
+JUL-2010,Punjab,Amritsar,12.0
+JUL-2010,Punjab,Ludhiana,10.0
+AUG-2010,Bihar,Patna,9.0
+AUG-2010,Jammu Kashmir,Jammu,10.0
+AUG-2010,Punjab,Amritsar,10.0
+AUG-2010,Punjab,Bhatinda,8.0
+AUG-2010,Punjab,Ludhiana,12.0
+SEP-2010,Bihar,Patna,9.5
+SEP-2010,Jammu Kashmir,Jammu,18.0
+SEP-2010,Punjab,Amritsar,10.0
+SEP-2010,Punjab,Bhatinda,12.0
+SEP-2010,Punjab,Ludhiana,15.0
+OCT-2010,Bihar,Patna,10.0
+OCT-2010,Jammu Kashmir,Jammu,18.0
+OCT-2010,Punjab,Amritsar,10.0
+OCT-2010,Punjab,Ludhiana,20.0
+NOV-2010,Bihar,Patna,12.0
+NOV-2010,Jammu Kashmir,Jammu,15.0
+NOV-2010,Punjab,Amritsar,10.0
+NOV-2010,Punjab,Bhatinda,10.0
+NOV-2010,Punjab,Ludhiana,20.0
+DEC-2010,Bihar,Patna,9.5
+DEC-2010,Jammu Kashmir,Jammu,8.0
+DEC-2010,Punjab,Amritsar,5.0
+DEC-2010,Punjab,Bhatinda,10.0
+DEC-2010,Punjab,Ludhiana,15.0
+JAN-2011,Bihar,Patna,8.0
+JAN-2011,Jammu Kashmir,Jammu,8.0
+JAN-2011,Punjab,Amritsar,5.0
+JAN-2011,Punjab,Bhatinda,8.0
+JAN-2011,Punjab,Ludhiana,5.0
+FEB-2011,Bihar,Patna,7.0
+FEB-2011,Jammu Kashmir,Jammu,8.0
+FEB-2011,Punjab,Amritsar,4.5
+FEB-2011,Punjab,Bhatinda,8.0
+FEB-2011,Punjab,Ludhiana,8.0
+MAR-2011,Bihar,Patna,8.5
+MAR-2011,Jammu Kashmir,Jammu,10.0
+MAR-2011,Punjab,Amritsar,10.0
+MAR-2011,Punjab,Bhatinda,8.0
+MAR-2011,Punjab,Ludhiana,5.0
+APR-2011,Bihar,Patna,8.0
+APR-2011,Jammu Kashmir,Jammu,10.0
+APR-2011,Punjab,Amritsar,10.0
+APR-2011,Punjab,Bhatinda,10.0
+APR-2011,Punjab,Ludhiana,5.0
+MAY-2011,Bihar,Patna,8.5
+MAY-2011,Jammu Kashmir,Jammu,10.0
+MAY-2011,Punjab,Amritsar,8.0
+MAY-2011,Punjab,Bhatinda,10.0
+MAY-2011,Punjab,Ludhiana,5.0
+JUN-2011,Bihar,Patna,10.0
+JUN-2011,Jammu Kashmir,Jammu,12.0
+JUN-2011,Punjab,Amritsar,8.0
+JUN-2011,Punjab,Bhatinda,10.0
+JUN-2011,Punjab,Ludhiana,5.0
+JUL-2011,Bihar,Patna,12.0
+JUL-2011,Jammu Kashmir,Jammu,12.0
+JUL-2011,Punjab,Amritsar,15.0
+JUL-2011,Punjab,Bhatinda,10.0
+JUL-2011,Punjab,Ludhiana,10.0
+AUG-2011,Bihar,Patna,12.0
+AUG-2011,Jammu Kashmir,Jammu,15.0
+AUG-2011,Punjab,Amritsar,14.0
+AUG-2011,Punjab,Bhatinda,10.0
+AUG-2011,Punjab,Ludhiana,15.0
+SEP-2011,Bihar,Patna,10.0
+SEP-2011,Jammu Kashmir,Jammu,15.0
+SEP-2011,Punjab,Amritsar,14.0
+SEP-2011,Punjab,Ludhiana,15.0
+OCT-2011,Bihar,Patna,9.0
+OCT-2011,Jammu Kashmir,Jammu,15.0
+OCT-2011,Punjab,Amritsar,10.0
+OCT-2011,Punjab,Bhatinda,10.0
+OCT-2011,Punjab,Ludhiana,15.0
+NOV-2011,Bihar,Patna,9.0
+NOV-2011,Punjab,Amritsar,10.0
+NOV-2011,Punjab,Ludhiana,10.0
+DEC-2011,Bihar,Patna,9.0
+DEC-2011,Jammu Kashmir,Jammu,8.0
+DEC-2011,Punjab,Amritsar,8.0
+DEC-2011,Punjab,Ludhiana,7.0
+JAN-2012,Bihar,Patna,8.0
+JAN-2012,Jammu Kashmir,Jammu,10.0
+JAN-2012,Punjab,Amritsar,8.0
+JAN-2012,Punjab,Ludhiana,5.0
+FEB-2012,Bihar,Patna,8.0
+FEB-2012,Jammu Kashmir,Jammu,8.0
+FEB-2012,Punjab,Amritsar,5.0
+FEB-2012,Punjab,Ludhiana,5.0
+MAR-2012,Bihar,Patna,10.0
+MAR-2012,Jammu Kashmir,Jammu,12.0
+MAR-2012,Punjab,Amritsar,5.0
+MAR-2012,Punjab,Bhatinda,10.0
+MAR-2012,Punjab,Ludhiana,5.0
+APR-2012,Bihar,Patna,11.0
+APR-2012,Jammu Kashmir,Jammu,14.0
+APR-2012,Punjab,Amritsar,10.0
+APR-2012,Punjab,Bhatinda,12.0
+APR-2012,Punjab,Ludhiana,5.0
+MAY-2012,Bihar,Patna,13.0
+MAY-2012,Punjab,Amritsar,15.0
+MAY-2012,Punjab,Ludhiana,15.0
+JUN-2012,Bihar,Patna,16.0
+JUN-2012,Jammu Kashmir,Jammu,18.0
+JUN-2012,Punjab,Amritsar,15.0
+JUN-2012,Punjab,Ludhiana,15.0
+JUL-2012,Bihar,Patna,17.0
+JUL-2012,Jammu Kashmir,Jammu,18.0
+JUL-2012,Punjab,Amritsar,15.0
+JUL-2012,Punjab,Ludhiana,25.0
+AUG-2012,Bihar,Patna,17.0
+AUG-2012,Jammu Kashmir,Jammu,20.0
+AUG-2012,Punjab,Amritsar,20.0
+AUG-2012,Punjab,Ludhiana,15.0
+SEP-2012,Bihar,Patna,18.0
+SEP-2012,Jammu Kashmir,Jammu,20.0
+SEP-2012,Punjab,Amritsar,20.0
+SEP-2012,Punjab,Ludhiana,15.0
+OCT-2012,Bihar,Patna,18.0
+OCT-2012,Jammu Kashmir,Jammu,20.0
+OCT-2012,Punjab,Amritsar,20.0
+OCT-2012,Punjab,Ludhiana,15.0
+NOV-2012,Bihar,Patna,18.0
+NOV-2012,Punjab,Amritsar,20.0
+NOV-2012,Punjab,Ludhiana,15.0
+DEC-2012,Bihar,Patna,13.0
+DEC-2012,Punjab,Amritsar,20.0
+DEC-2012,Punjab,Ludhiana,15.0
+JAN-2013,Bihar,Patna,12.0
+JAN-2013,Jammu Kashmir,Jammu,18.0
+JAN-2013,Punjab,Ludhiana,15.0
+FEB-2013,Bihar,Patna,12.0
+FEB-2013,Punjab,Ludhiana,15.0
+MAR-2013,Bihar,Patna,9.0
+MAR-2013,Jammu Kashmir,Jammu,15.0
+MAR-2013,Punjab,Ludhiana,12.0
+APR-2013,Bihar,Patna,10.0
+APR-2013,Jammu Kashmir,Jammu,20.0
+APR-2013,Punjab,Ludhiana,12.0
+MAY-2013,Bihar,Patna,11.0
+MAY-2013,Jammu Kashmir,Jammu,16.0
+MAY-2013,Punjab,Ludhiana,15.0
+JUN-2013,Bihar,Patna,12.0
+JUN-2013,Jammu Kashmir,Jammu,20.0
+JUN-2013,Punjab,Ludhiana,15.0
+JUL-2013,Bihar,Patna,14.0
+JUL-2013,Jammu Kashmir,Jammu,20.0
+JUL-2013,Punjab,Ludhiana,20.0
+AUG-2013,Bihar,Muzaffarpur,14.0
+AUG-2013,Bihar,Patna,14.0
+AUG-2013,Punjab,Ludhiana,20.0
+SEP-2013,Bihar,Patna,14.0
+SEP-2013,Jammu Kashmir,Jammu,20.0
+SEP-2013,Punjab,Ludhiana,25.0
+OCT-2013,Bihar,Patna,17.0
+OCT-2013,Jammu Kashmir,Jammu,35.0
+OCT-2013,Punjab,Ludhiana,20.0
+NOV-2013,Bihar,Patna,20.0
+NOV-2013,Jammu Kashmir,Jammu,35.0
+NOV-2013,Punjab,Amritsar,20.0
+NOV-2013,Punjab,Ludhiana,30.0
+DEC-2013,Bihar,Patna,20.0
+DEC-2013,Jammu Kashmir,Jammu,15.0
+DEC-2013,Punjab,Ludhiana,20.0
+JAN-2014,Bihar,Patna,14.0
+JAN-2014,Punjab,Amritsar,10.0
+JAN-2014,Punjab,Ludhiana,20.0
+FEB-2014,Bihar,Patna,12.0
+MAR-2014,Bihar,Patna,16.0
+MAR-2014,Jammu Kashmir,Jammu,15.0
+APR-2014,Bihar,Patna,20.0
+APR-2014,Jammu Kashmir,Jammu,20.0
+MAY-2014,Bihar,Patna,20.0
+MAY-2014,Jammu Kashmir,Jammu,25.0
+MAY-2014,Punjab,Amritsar,10.0
+JUN-2014,Bihar,Patna,22.0
+JUN-2014,Jammu Kashmir,Jammu,28.0
+JUL-2014,Bihar,Patna,22.0
+JUL-2014,Jammu Kashmir,Jammu,35.0
+JUL-2014,Jammu Kashmir,Shrinagar,35.0
+AUG-2014,Bihar,Patna,25.0
+AUG-2014,Jammu Kashmir,Jammu,35.0
+SEP-2014,Bihar,Patna,28.0
+SEP-2014,Jammu Kashmir,Jammu,40.0
+OCT-2014,Bihar,Patna,30.0
+OCT-2014,Jammu Kashmir,Jammu,40.0
+NOV-2014,Bihar,Patna,32.0
+DEC-2014,Bihar,Patna,15.0
+DEC-2014,Jammu Kashmir,Jammu,15.0
+JAN-2015,Bihar,Patna,12.0
+JAN-2015,Jammu Kashmir,Jammu,12.0
+FEB-2015,Bihar,Patna,11.0
+MAR-2015,Bihar,Patna,10.0
+MAR-2015,Jammu Kashmir,Jammu,15.0
+APR-2015,Bihar,Patna,10.0
+APR-2015,Jammu Kashmir,Jammu,10.0
+MAY-2015,Bihar,Patna,12.0
+MAY-2015,Jammu Kashmir,Jammu,12.0
+JUN-2015,Bihar,Patna,13.0
+JUN-2015,Jammu Kashmir,Jammu,15.0
+JUL-2015,Bihar,Patna,14.0
+JUL-2015,Jammu Kashmir,Jammu,20.0
+AUG-2015,Bihar,Patna,14.0
+AUG-2015,Jammu Kashmir,Jammu,22.0
+SEP-2015,Bihar,Patna,14.0
+OCT-2015,Bihar,Patna,15.0
+OCT-2015,Jammu Kashmir,Jammu,25.0
+NOV-2015,Bihar,Patna,15.0
+NOV-2015,Jammu Kashmir,Jammu,15.0
+DEC-2015,Bihar,Patna,12.0
+DEC-2015,Jammu Kashmir,Jammu,10.0
+JAN-2016,Bihar,Patna,11.0
+JAN-2016,Jammu Kashmir,Jammu,10.0
+JAN-2016,Jammu Kashmir,Shrinagar,9.0
+FEB-2016,Bihar,Patna,11.0
+FEB-2016,Jammu Kashmir,Jammu,15.0
+FEB-2016,Punjab,Amritsar,10.0
+MAR-2016,Bihar,Patna,12.0
+MAR-2016,Punjab,Amritsar,10.0
+APR-2016,Bihar,Patna,14.0
+APR-2016,Jammu Kashmir,Jammu,15.0
+MAY-2016,Bihar,Patna,18.0
+MAY-2016,Jammu Kashmir,Jammu,20.0
+JUN-2016,Bihar,Patna,20.0
+JUN-2016,Jammu Kashmir,Jammu,25.0
+JUN-2016,Punjab,Amritsar,20.0
+JUL-2016,Bihar,Patna,24.0
+JUL-2016,Jammu Kashmir,Jammu,25.0
+AUG-2016,Bihar,Patna,22.0
+AUG-2016,Jammu Kashmir,Jammu,25.0
+SEP-2016,Bihar,Patna,22.0
+SEP-2016,Jammu Kashmir,Jammu,30.0
+OCT-2016,Bihar,Patna,22.0
+OCT-2016,Jammu Kashmir,Jammu,25.0
+OCT-2016,Punjab,Amritsar,15.0
+NOV-2016,Bihar,Patna,18.0
+NOV-2016,Jammu Kashmir,Jammu,20.0
+DEC-2016,Bihar,Patna,16.0
+DEC-2016,Jammu Kashmir,Jammu,10.0
+JAN-2017,Bihar,Patna,12.0
+JAN-2017,Jammu Kashmir,Jammu,10.0
+JAN-2017,Punjab,Amritsar,6.0
+FEB-2017,Bihar,Patna,12.0
+FEB-2017,Jammu Kashmir,Jammu,10.0
+MAR-2017,Bihar,Muzaffarpur,8.0
+MAR-2017,Bihar,Patna,8.0
+MAR-2017,Jammu Kashmir,Jammu,10.0
+MAR-2017,Punjab,Amritsar,6.0
+APR-2017,Bihar,Muzaffarpur,8.0
+APR-2017,Bihar,Patna,10.0
+APR-2017,Jammu Kashmir,Jammu,10.0
+MAY-2017,Bihar,Muzaffarpur,10.0
+MAY-2017,Bihar,Patna,10.0
+MAY-2017,Jammu Kashmir,Jammu,15.0
+JUN-2017,Bihar,Patna,14.0
+JUN-2017,Jammu Kashmir,Jammu,15.0
+JUL-2017,Bihar,Patna,14.0
+JUL-2017,Jammu Kashmir,Jammu,15.0
+AUG-2017,Bihar,Patna,12.0
+AUG-2017,Jammu Kashmir,Jammu,15.0
+SEP-2017,Bihar,Patna,12.0
+SEP-2017,Jammu Kashmir,Jammu,15.0
+SEP-2017,Punjab,Amritsar,10.0
+OCT-2017,Bihar,Patna,12.0
+OCT-2017,Jammu Kashmir,Jammu,20.0
+OCT-2017,Punjab,Amritsar,15.0
+NOV-2017,Bihar,Gaya,12.0
+NOV-2017,Bihar,Patna,10.0
+NOV-2017,Jammu Kashmir,Jammu,18.0
+NOV-2017,Punjab,Amritsar,20.0
+DEC-2017,Bihar,Gaya,12.0
+DEC-2017,Bihar,Patna,13.0
+DEC-2017,Jammu Kashmir,Jammu,10.0
+DEC-2017,Punjab,Amritsar,10.0
+JAN-2018,Bihar,Gaya,12.0
+JAN-2018,Bihar,Patna,12.0
+JAN-2018,Jammu Kashmir,Jammu,10.0
+JAN-2018,Punjab,Amritsar,7.0
+FEB-2018,Bihar,Gaya,12.0
+FEB-2018,Bihar,Patna,10.0
+FEB-2018,Jammu Kashmir,Jammu,10.0
+FEB-2018,Punjab,Amritsar,7.0
+MAR-2018,Bihar,Gaya,12.0
+MAR-2018,Bihar,Patna,12.0
+MAR-2018,Jammu Kashmir,Jammu,15.0
+MAR-2018,Punjab,Amritsar,10.0
+APR-2018,Bihar,Gaya,14.0
+APR-2018,Bihar,Patna,14.0
+APR-2018,Jammu Kashmir,Jammu,15.0
+APR-2018,Punjab,Amritsar,15.0
+MAY-2018,Bihar,Gaya,18.0
+MAY-2018,Bihar,Patna,18.0
+MAY-2018,Jammu Kashmir,Jammu,20.0
+MAY-2018,Punjab,Amritsar,15.0
+JUN-2018,Bihar,Gaya,20.0
+JUN-2018,Bihar,Patna,20.0
+JUN-2018,Jammu Kashmir,Jammu,25.0
+JUL-2018,Bihar,Gaya,20.0
+JUL-2018,Bihar,Patna,20.0
+JUL-2018,Jammu Kashmir,Jammu,20.0
+AUG-2018,Bihar,Gaya,20.0
+AUG-2018,Bihar,Patna,20.0
+AUG-2018,Jammu Kashmir,Jammu,25.0
+SEP-2018,Bihar,Gaya,18.0
+SEP-2018,Bihar,Patna,18.0
+SEP-2018,Jammu Kashmir,Jammu,25.0
+OCT-2018,Bihar,Gaya,20.0
+OCT-2018,Bihar,Patna,20.0
+OCT-2018,Jammu Kashmir,Jammu,30.0
+NOV-2018,Bihar,Gaya,18.0
+NOV-2018,Bihar,Patna,20.0
+NOV-2018,Jammu Kashmir,Jammu,25.0
+DEC-2018,Bihar,Gaya,18.0
+DEC-2018,Bihar,Patna,16.0
+DEC-2018,Jammu Kashmir,Jammu,12.0
+DEC-2018,Punjab,Amritsar,10.0
+JAN-2019,Bihar,Gaya,16.0
+JAN-2019,Bihar,Patna,15.0
+JAN-2019,Jammu Kashmir,Jammu,10.0
+JAN-2019,Punjab,Amritsar,10.0
+FEB-2019,Bihar,Gaya,12.0
+FEB-2019,Bihar,Patna,12.0
+FEB-2019,Jammu Kashmir,Jammu,12.0
+FEB-2019,Punjab,Amritsar,10.0
+MAR-2019,Bihar,Gaya,12.0
+MAR-2019,Bihar,Patna,12.0
+MAR-2019,Jammu Kashmir,Jammu,13.0
+APR-2019,Bihar,Gaya,12.0
+APR-2019,Bihar,Patna,12.0
+APR-2019,Jammu Kashmir,Jammu,15.0
+APR-2019,Punjab,Amritsar,10.0
+MAY-2019,Bihar,Gaya,16.0
+MAY-2019,Bihar,Patna,16.0
+MAY-2019,Jammu Kashmir,Jammu,20.0
+MAY-2019,Punjab,Amritsar,15.0
+JUN-2019,Bihar,Gaya,17.0
+JUN-2019,Bihar,Patna,17.0
+JUN-2019,Jammu Kashmir,Jammu,20.0
+JUN-2019,Punjab,Amritsar,20.0
+JUL-2019,Bihar,Gaya,16.0
+JUL-2019,Bihar,Patna,17.0
+JUL-2019,Jammu Kashmir,Jammu,22.0
+JUL-2019,Punjab,Amritsar,20.0
+AUG-2019,Bihar,Gaya,16.0
+AUG-2019,Bihar,Patna,17.0
+AUG-2019,Jammu Kashmir,Jammu,25.0
+SEP-2019,Bihar,Gaya,17.0
+SEP-2019,Bihar,Patna,17.0
+SEP-2019,Jammu Kashmir,Jammu,20.0
+SEP-2019,Punjab,Amritsar,20.0
+OCT-2019,Bihar,Gaya,22.0
+OCT-2019,Bihar,Patna,24.0
+OCT-2019,Jammu Kashmir,Jammu,20.0
+OCT-2019,Punjab,Amritsar,20.0
+NOV-2019,Bihar,Gaya,20.0
+NOV-2019,Bihar,Patna,19.0
+NOV-2019,Jammu Kashmir,Jammu,20.0
+NOV-2019,Punjab,Amritsar,20.0
+DEC-2019,Bihar,Gaya,20.0
+DEC-2019,Bihar,Patna,22.0
+DEC-2019,Jammu Kashmir,Jammu,20.0
+DEC-2019,Punjab,Amritsar,25.0
+JAN-2020,Bihar,Gaya,20.0
+JAN-2020,Bihar,Patna,20.0
+JAN-2020,Jammu Kashmir,Jammu,20.0
+FEB-2020,Bihar,Gaya,16.0
+FEB-2020,Bihar,Patna,18.0
+FEB-2020,Jammu Kashmir,Jammu,20.0
+FEB-2020,Punjab,Amritsar,20.0
+MAR-2020,Bihar,Gaya,20.0
+MAR-2020,Bihar,Patna,24.0
+MAR-2020,Jammu Kashmir,Jammu,25.0
+APR-2020,Bihar,Gaya,24.0
+APR-2020,Bihar,Patna,24.0
+MAY-2020,Bihar,Gaya,22.0
+MAY-2020,Bihar,Patna,24.0
+MAY-2020,Punjab,Amritsar,20.0
+JUN-2020,Bihar,Gaya,26.0
+JUN-2020,Bihar,Patna,28.0
+JUN-2020,Jammu Kashmir,Jammu,25.0
+JUN-2020,Punjab,Amritsar,20.0
+JUL-2020,Bihar,Gaya,30.0
+JUL-2020,Bihar,Patna,30.0
+JUL-2020,Jammu Kashmir,Jammu,25.0
+JUL-2020,Punjab,Amritsar,35.0
+AUG-2020,Bihar,Gaya,34.0
+AUG-2020,Bihar,Patna,32.0
+AUG-2020,Jammu Kashmir,Jammu,30.0
+AUG-2020,Punjab,Amritsar,35.0
+SEP-2020,Bihar,Gaya,38.0
+SEP-2020,Bihar,Patna,37.0
+SEP-2020,Jammu Kashmir,Jammu,40.0
+SEP-2020,Punjab,Amritsar,35.0
+OCT-2020,Bihar,Gaya,40.0
+OCT-2020,Bihar,Patna,40.0
+OCT-2020,Jammu Kashmir,Jammu,40.0
+NOV-2020,Bihar,Gaya,44.0
+NOV-2020,Bihar,Patna,46.0
+NOV-2020,Jammu Kashmir,Jammu,40.0
+NOV-2020,Punjab,Amritsar,50.0
+DEC-2020,Bihar,Gaya,20.0
+DEC-2020,Bihar,Patna,22.0
+DEC-2020,Jammu Kashmir,Jammu,20.0
+DEC-2020,Punjab,Amritsar,20.0
+JAN-2021,Bihar,Gaya,10.0
+JAN-2021,Bihar,Patna,14.0
+JAN-2021,Jammu Kashmir,Jammu,15.0
+JAN-2021,Punjab,Amritsar,20.0
+FEB-2021,Bihar,Gaya,10.0
+FEB-2021,Bihar,Patna,10.0
+FEB-2021,Jammu Kashmir,Jammu,15.0
+FEB-2021,Punjab,Amritsar,10.0
+MAR-2021,Bihar,Gaya,10.0
+MAR-2021,Bihar,Patna,12.0
+MAR-2021,Jammu Kashmir,Jammu,15.0
+JAN-2001,Bihar,Hajipur,10.0
+JAN-2001,Bihar,Muzaffarpur,10.0
+JAN-2001,Bihar,Patna,10.0
+JAN-2001,Punjab,Amritsar,10.0
+JAN-2001,Punjab,Bhatinda,12.0
+JAN-2001,Bihar,Hajipur,7.0
+JAN-2001,Bihar,Muzaffarpur,6.5
+JAN-2001,Punjab,Amritsar,6.5
+JAN-2001,Punjab,Bhatinda,6.0
+JAN-2001,Punjab,Ludhiana,5.8
+FEB-2001,Bihar,Hajipur,6.0
+FEB-2001,Bihar,Muzaffarpur,6.0
+FEB-2001,Bihar,Patna,5.0
+FEB-2001,Punjab,Amritsar,10.0
+FEB-2001,Punjab,Bhatinda,12.0
+FEB-2001,Bihar,Hajipur,7.4
+FEB-2001,Bihar,Muzaffarpur,6.5
+FEB-2001,Bihar,Patna,7.5
+FEB-2001,Punjab,Amritsar,6.5
+FEB-2001,Punjab,Bhatinda,6.25
+FEB-2001,Punjab,Ludhiana,5.8
+MAR-2001,Bihar,Muzaffarpur,4.5
+MAR-2001,Bihar,Patna,3.0
+MAR-2001,Punjab,Amritsar,6.0
+MAR-2001,Bihar,Muzaffarpur,6.75
+MAR-2001,Punjab,Amritsar,6.5
+MAR-2001,Punjab,Ludhiana,6.2
+APR-2001,Bihar,Muzaffarpur,8.5
+APR-2001,Bihar,Muzaffarpur,6.25
+APR-2001,Punjab,Amritsar,6.5
+MAY-2001,Bihar,Muzaffarpur,8.0
+MAY-2001,Bihar,Muzaffarpur,6.25
+MAY-2001,Punjab,Amritsar,6.5
+MAY-2001,Punjab,Ludhiana,6.5
+JUN-2001,Bihar,Muzaffarpur,8.0
+JUN-2001,Bihar,Muzaffarpur,6.25
+JUN-2001,Punjab,Amritsar,7.0
+JUN-2001,Punjab,Bhatinda,6.25
+JUL-2001,Punjab,Amritsar,15.0
+JUL-2001,Bihar,Muzaffarpur,6.25
+JUL-2001,Punjab,Amritsar,7.0
+AUG-2001,Punjab,Amritsar,16.0
+AUG-2001,Bihar,Muzaffarpur,6.5
+AUG-2001,Punjab,Amritsar,7.0
+AUG-2001,Punjab,Bhatinda,6.25
+AUG-2001,Punjab,Ludhiana,6.0
+SEP-2001,Bihar,Patna,12.0
+SEP-2001,Punjab,Amritsar,12.0
+SEP-2001,Bihar,Muzaffarpur,6.75
+SEP-2001,Bihar,Patna,7.0
+SEP-2001,Punjab,Amritsar,7.0
+OCT-2001,Bihar,Muzaffarpur,12.0
+OCT-2001,Bihar,Patna,12.0
+OCT-2001,Punjab,Amritsar,12.0
+OCT-2001,Bihar,Muzaffarpur,7.0
+OCT-2001,Bihar,Patna,7.5
+OCT-2001,Punjab,Amritsar,7.0
+OCT-2001,Punjab,Ludhiana,6.25
+NOV-2001,Bihar,Muzaffarpur,10.0
+NOV-2001,Bihar,Patna,12.0
+NOV-2001,Punjab,Amritsar,16.0
+NOV-2001,Bihar,Muzaffarpur,7.75
+NOV-2001,Bihar,Patna,8.25
+NOV-2001,Punjab,Amritsar,7.0
+DEC-2001,Bihar,Muzaffarpur,12.0
+DEC-2001,Bihar,Patna,18.0
+DEC-2001,Punjab,Amritsar,16.0
+DEC-2001,Bihar,Hajipur,8.5
+DEC-2001,Bihar,Muzaffarpur,7.75
+DEC-2001,Bihar,Patna,8.5
+DEC-2001,Punjab,Amritsar,7.0
+JAN-2002,Bihar,Hajipur,5.0
+JAN-2002,Bihar,Muzaffarpur,6.0
+JAN-2002,Bihar,Patna,6.0
+JAN-2002,Punjab,Amritsar,10.0
+JAN-2002,Bihar,Hajipur,8.0
+JAN-2002,Bihar,Muzaffarpur,8.0
+JAN-2002,Bihar,Patna,8.25
+JAN-2002,Punjab,Amritsar,7.0
+FEB-2002,Bihar,Hajipur,8.0
+FEB-2002,Bihar,Muzaffarpur,5.0
+FEB-2002,Bihar,Patna,6.0
+FEB-2002,Jammu Kashmir,Jammu,15.0
+FEB-2002,Punjab,Amritsar,15.0
+FEB-2002,Punjab,Ludhiana,12.0
+FEB-2002,Bihar,Hajipur,8.0
+FEB-2002,Bihar,Muzaffarpur,8.0
+FEB-2002,Bihar,Patna,8.0
+FEB-2002,Punjab,Amritsar,7.0
+FEB-2002,Punjab,Ludhiana,6.45
+MAR-2002,Bihar,Muzaffarpur,4.0
+MAR-2002,Bihar,Patna,8.0
+MAR-2002,Jammu Kashmir,Jammu,15.0
+MAR-2002,Punjab,Amritsar,15.0
+MAR-2002,Punjab,Ludhiana,12.0
+MAR-2002,Bihar,Muzaffarpur,7.5
+MAR-2002,Bihar,Patna,7.8
+MAR-2002,Punjab,Amritsar,7.0
+MAR-2002,Punjab,Ludhiana,6.45
+APR-2002,Bihar,Hajipur,4.0
+APR-2002,Bihar,Muzaffarpur,3.0
+APR-2002,Bihar,Patna,2.5
+APR-2002,Jammu Kashmir,Jammu,15.0
+APR-2002,Punjab,Amritsar,10.0
+APR-2002,Punjab,Ludhiana,12.0
+APR-2002,Bihar,Gaya,12.0
+APR-2002,Bihar,Gaya,9.0
+APR-2002,Bihar,Hajipur,8.0
+APR-2002,Bihar,Muzaffarpur,6.5
+APR-2002,Bihar,Patna,7.8
+APR-2002,Jammu Kashmir,Shrinagar,13.0
+APR-2002,Punjab,Amritsar,7.0
+APR-2002,Punjab,Bhatinda,6.5
+APR-2002,Punjab,Ludhiana,6.35
+MAY-2002,Jammu Kashmir,Jammu,10.0
+MAY-2002,Punjab,Amritsar,10.0
+MAY-2002,Punjab,Ludhiana,10.0
+MAY-2002,Bihar,Muzaffarpur,6.5
+MAY-2002,Punjab,Amritsar,7.0
+MAY-2002,Punjab,Ludhiana,6.4
+JUN-2002,Bihar,Hajipur,12.0
+JUN-2002,Bihar,Muzaffarpur,17.0
+JUN-2002,Bihar,Patna,18.0
+JUN-2002,Jammu Kashmir,Jammu,30.0
+JUN-2002,Punjab,Ludhiana,20.0
+JUN-2002,Bihar,Hajipur,7.5
+JUN-2002,Bihar,Patna,7.25
+JUN-2002,Punjab,Amritsar,7.0
+JUN-2002,Punjab,Ludhiana,6.45
+JUL-2002,Bihar,Hajipur,20.0
+JUL-2002,Bihar,Muzaffarpur,20.0
+JUL-2002,Bihar,Patna,18.0
+JUL-2002,Punjab,Ludhiana,15.0
+JUL-2002,Bihar,Hajipur,7.75
+JUL-2002,Bihar,Muzaffarpur,7.0
+JUL-2002,Bihar,Patna,8.0
+JUL-2002,Punjab,Ludhiana,6.45
+AUG-2002,Bihar,Muzaffarpur,20.0
+AUG-2002,Punjab,Ludhiana,20.0
+AUG-2002,Bihar,Muzaffarpur,7.0
+AUG-2002,Bihar,Patna,8.3
+AUG-2002,Punjab,Ludhiana,6.2
+SEP-2002,Bihar,Hajipur,10.0
+SEP-2002,Bihar,Muzaffarpur,18.0
+SEP-2002,Bihar,Patna,12.0
+SEP-2002,Punjab,Ludhiana,12.0
+SEP-2002,Bihar,Muzaffarpur,7.5
+SEP-2002,Bihar,Patna,8.5
+SEP-2002,Punjab,Ludhiana,6.25
+OCT-2002,Bihar,Hajipur,14.0
+OCT-2002,Bihar,Patna,16.0
+OCT-2002,Punjab,Amritsar,15.0
+OCT-2002,Punjab,Ludhiana,12.0
+OCT-2002,Bihar,Patna,9.0
+OCT-2002,Punjab,Amritsar,7.0
+OCT-2002,Punjab,Ludhiana,6.3
+NOV-2002,Bihar,Hajipur,10.0
+NOV-2002,Bihar,Muzaffarpur,12.0
+NOV-2002,Bihar,Patna,12.0
+NOV-2002,Punjab,Amritsar,8.0
+NOV-2002,Punjab,Ludhiana,6.0
+NOV-2002,Bihar,Muzaffarpur,7.5
+NOV-2002,Bihar,Patna,9.0
+NOV-2002,Punjab,Amritsar,7.0
+NOV-2002,Punjab,Ludhiana,6.4
+DEC-2002,Bihar,Hajipur,7.0
+DEC-2002,Bihar,Muzaffarpur,6.0
+DEC-2002,Bihar,Patna,5.0
+DEC-2002,Punjab,Ludhiana,8.0
+DEC-2002,Bihar,Muzaffarpur,6.75
+DEC-2002,Bihar,Patna,8.2
+DEC-2002,Punjab,Amritsar,7.0
+DEC-2002,Punjab,Ludhiana,6.4
+JAN-2003,Bihar,Hajipur,4.0
+JAN-2003,Bihar,Muzaffarpur,7.0
+JAN-2003,Bihar,Patna,4.5
+JAN-2003,Punjab,Amritsar,8.0
+JAN-2003,Punjab,Ludhiana,10.0
+JAN-2003,Bihar,Muzaffarpur,8.0
+JAN-2003,Bihar,Patna,9.5
+JAN-2003,Bihar,Patna,8.75
+JAN-2003,Punjab,Ludhiana,6.4
+FEB-2003,Bihar,Hajipur,4.0
+FEB-2003,Bihar,Muzaffarpur,4.0
+FEB-2003,Bihar,Patna,4.0
+FEB-2003,Punjab,Ludhiana,12.0
+FEB-2003,Bihar,Muzaffarpur,8.5
+FEB-2003,Bihar,Patna,9.25
+FEB-2003,Bihar,Patna,8.5
+FEB-2003,Punjab,Ludhiana,6.4
+MAR-2003,Bihar,Hajipur,4.0
+MAR-2003,Bihar,Muzaffarpur,8.0
+MAR-2003,Bihar,Patna,5.0
+MAR-2003,Punjab,Bhatinda,12.0
+MAR-2003,Punjab,Ludhiana,10.0
+MAR-2003,Bihar,Muzaffarpur,9.0
+MAR-2003,Bihar,Patna,9.5
+MAR-2003,Bihar,Patna,8.5
+MAR-2003,Punjab,Bhatinda,7.0
+MAR-2003,Punjab,Ludhiana,6.75
+APR-2003,Bihar,Hajipur,8.0
+APR-2003,Bihar,Muzaffarpur,6.0
+APR-2003,Bihar,Patna,8.0
+APR-2003,Punjab,Amritsar,10.0
+APR-2003,Punjab,Ludhiana,12.0
+APR-2003,Bihar,Muzaffarpur,6.5
+APR-2003,Bihar,Patna,8.0
+APR-2003,Bihar,Patna,8.0
+APR-2003,Punjab,Bhatinda,6.5
+APR-2003,Punjab,Ludhiana,6.75
+MAY-2003,Bihar,Hajipur,8.0
+MAY-2003,Bihar,Muzaffarpur,10.0
+MAY-2003,Bihar,Patna,8.0
+MAY-2003,Punjab,Amritsar,10.0
+MAY-2003,Punjab,Ludhiana,12.0
+MAY-2003,Bihar,Hajipur,7.2
+MAY-2003,Bihar,Hajipur,7.0
+MAY-2003,Bihar,Muzaffarpur,6.75
+MAY-2003,Bihar,Patna,7.5
+MAY-2003,Bihar,Patna,7.0
+MAY-2003,Punjab,Amritsar,7.5
+MAY-2003,Punjab,Bhatinda,6.8
+MAY-2003,Punjab,Ludhiana,7.0
+JUN-2003,Bihar,Hajipur,8.0
+JUN-2003,Bihar,Muzaffarpur,12.0
+JUN-2003,Bihar,Patna,8.0
+JUN-2003,Punjab,Ludhiana,8.0
+JUN-2003,Bihar,Hajipur,8.0
+JUN-2003,Bihar,Hajipur,7.0
+JUN-2003,Bihar,Muzaffarpur,7.0
+JUN-2003,Bihar,Patna,7.5
+JUN-2003,Bihar,Patna,7.0
+JUN-2003,Punjab,Ludhiana,7.0
+JUL-2003,Bihar,Muzaffarpur,15.0
+JUL-2003,Bihar,Patna,28.0
+JUL-2003,Punjab,Amritsar,10.0
+JUL-2003,Punjab,Ludhiana,20.0
+JUL-2003,Bihar,Hajipur,8.2
+JUL-2003,Bihar,Hajipur,7.0
+JUL-2003,Bihar,Muzaffarpur,7.25
+JUL-2003,Bihar,Patna,8.0
+JUL-2003,Bihar,Patna,7.5
+JUL-2003,Punjab,Amritsar,7.0
+JUL-2003,Punjab,Ludhiana,7.0
+AUG-2003,Bihar,Muzaffarpur,12.0
+AUG-2003,Bihar,Patna,18.0
+AUG-2003,Punjab,Ludhiana,10.0
+AUG-2003,Bihar,Hajipur,8.5
+AUG-2003,Bihar,Hajipur,7.5
+AUG-2003,Bihar,Muzaffarpur,6.5
+AUG-2003,Bihar,Patna,8.5
+AUG-2003,Bihar,Patna,7.5
+AUG-2003,Punjab,Ludhiana,7.0
+SEP-2003,Bihar,Hajipur,14.0
+SEP-2003,Bihar,Muzaffarpur,8.0
+SEP-2003,Bihar,Patna,16.0
+SEP-2003,Punjab,Ludhiana,12.0
+SEP-2003,Bihar,Hajipur,8.5
+SEP-2003,Bihar,Hajipur,7.5
+SEP-2003,Bihar,Muzaffarpur,7.5
+SEP-2003,Bihar,Patna,8.5
+SEP-2003,Bihar,Patna,7.5
+SEP-2003,Punjab,Ludhiana,7.0
+OCT-2003,Bihar,Hajipur,18.0
+OCT-2003,Bihar,Patna,18.0
+OCT-2003,Punjab,Ludhiana,14.0
+OCT-2003,Bihar,Hajipur,8.5
+OCT-2003,Bihar,Hajipur,7.5
+OCT-2003,Bihar,Muzaffarpur,7.5
+OCT-2003,Bihar,Patna,8.5
+OCT-2003,Bihar,Patna,7.5
+OCT-2003,Punjab,Amritsar,7.0
+OCT-2003,Punjab,Ludhiana,7.0
+NOV-2003,Bihar,Patna,16.0
+NOV-2003,Punjab,Ludhiana,16.0
+NOV-2003,Bihar,Hajipur,8.5
+NOV-2003,Bihar,Hajipur,7.5
+NOV-2003,Bihar,Patna,8.5
+NOV-2003,Bihar,Patna,8.0
+DEC-2003,Bihar,Hajipur,12.0
+DEC-2003,Bihar,Patna,14.0
+DEC-2003,Punjab,Ludhiana,12.0
+DEC-2003,Bihar,Hajipur,9.0
+DEC-2003,Bihar,Hajipur,8.5
+DEC-2003,Bihar,Patna,9.0
+DEC-2003,Bihar,Patna,8.5
+DEC-2003,Punjab,Ludhiana,7.0
+JAN-2004,Bihar,Patna,12.0
+JAN-2004,Punjab,Ludhiana,12.0
+JAN-2004,Bihar,Hajipur,9.0
+JAN-2004,Bihar,Hajipur,8.5
+JAN-2004,Bihar,Patna,9.0
+JAN-2004,Bihar,Patna,8.5
+JAN-2004,Punjab,Ludhiana,7.0
+FEB-2004,Bihar,Hajipur,6.0
+FEB-2004,Bihar,Muzaffarpur,6.0
+FEB-2004,Bihar,Patna,8.0
+FEB-2004,Punjab,Ludhiana,10.0
+FEB-2004,Bihar,Hajipur,9.5
+FEB-2004,Bihar,Hajipur,9.0
+FEB-2004,Bihar,Muzaffarpur,9.0
+FEB-2004,Bihar,Patna,9.5
+FEB-2004,Bihar,Patna,9.25
+FEB-2004,Punjab,Ludhiana,7.0
+MAR-2004,Bihar,Hajipur,7.0
+MAR-2004,Bihar,Muzaffarpur,7.0
+MAR-2004,Bihar,Patna,10.0
+MAR-2004,Punjab,Ludhiana,6.0
+MAR-2004,Bihar,Hajipur,9.5
+MAR-2004,Bihar,Hajipur,9.0
+MAR-2004,Bihar,Muzaffarpur,8.0
+MAR-2004,Bihar,Patna,9.5
+MAR-2004,Bihar,Patna,9.0
+MAR-2004,Punjab,Ludhiana,7.4
+APR-2004,Bihar,Hajipur,6.0
+APR-2004,Bihar,Muzaffarpur,5.0
+APR-2004,Bihar,Patna,6.0
+APR-2004,Jammu Kashmir,Jammu,10.0
+APR-2004,Punjab,Amritsar,10.0
+APR-2004,Punjab,Ludhiana,10.0
+APR-2004,Bihar,Hajipur,8.5
+APR-2004,Bihar,Hajipur,8.0
+APR-2004,Bihar,Muzaffarpur,7.5
+APR-2004,Bihar,Patna,8.5
+APR-2004,Bihar,Patna,8.0
+APR-2004,Jammu Kashmir,Jammu,6.5
+APR-2004,Punjab,Ludhiana,7.5
+MAY-2004,Bihar,Hajipur,6.0
+MAY-2004,Bihar,Patna,7.0
+MAY-2004,Jammu Kashmir,Jammu,10.0
+MAY-2004,Bihar,Hajipur,8.5
+MAY-2004,Bihar,Hajipur,8.0
+MAY-2004,Bihar,Muzaffarpur,7.75
+MAY-2004,Bihar,Patna,8.5
+MAY-2004,Bihar,Patna,8.0
+MAY-2004,Jammu Kashmir,Jammu,6.5
+JUN-2004,Jammu Kashmir,Jammu,10.0
+JUN-2004,Punjab,Amritsar,12.0
+JUN-2004,Jammu Kashmir,Jammu,6.5
+JUN-2004,Punjab,Amritsar,7.0
+JUN-2004,Punjab,Ludhiana,7.5
+JUL-2004,Bihar,Muzaffarpur,14.0
+JUL-2004,Jammu Kashmir,Jammu,15.0
+JUL-2004,Punjab,Amritsar,12.0
+JUL-2004,Bihar,Muzaffarpur,8.0
+JUL-2004,Jammu Kashmir,Jammu,6.5
+JUL-2004,Punjab,Ludhiana,7.5
+AUG-2004,Bihar,Hajipur,26.0
+AUG-2004,Bihar,Muzaffarpur,20.0
+AUG-2004,Bihar,Patna,20.0
+AUG-2004,Jammu Kashmir,Jammu,20.0
+AUG-2004,Punjab,Ludhiana,10.0
+AUG-2004,Bihar,Hajipur,10.0
+AUG-2004,Bihar,Hajipur,9.0
+AUG-2004,Bihar,Muzaffarpur,8.5
+AUG-2004,Bihar,Patna,9.5
+AUG-2004,Bihar,Patna,9.0
+AUG-2004,Jammu Kashmir,Jammu,6.5
+AUG-2004,Punjab,Ludhiana,7.5
+SEP-2004,Bihar,Hajipur,20.0
+SEP-2004,Bihar,Muzaffarpur,18.0
+SEP-2004,Bihar,Patna,20.0
+SEP-2004,Jammu Kashmir,Jammu,15.0
+SEP-2004,Punjab,Ludhiana,16.0
+SEP-2004,Bihar,Hajipur,9.5
+SEP-2004,Bihar,Hajipur,8.5
+SEP-2004,Bihar,Muzaffarpur,9.0
+SEP-2004,Bihar,Patna,9.5
+SEP-2004,Bihar,Patna,8.75
+SEP-2004,Jammu Kashmir,Jammu,6.5
+SEP-2004,Punjab,Ludhiana,7.5
+OCT-2004,Bihar,Muzaffarpur,15.0
+OCT-2004,Jammu Kashmir,Jammu,15.0
+OCT-2004,Bihar,Muzaffarpur,9.0
+OCT-2004,Jammu Kashmir,Jammu,6.5
+NOV-2004,Bihar,Muzaffarpur,18.0
+NOV-2004,Bihar,Patna,12.0
+NOV-2004,Jammu Kashmir,Jammu,15.0
+NOV-2004,Punjab,Ludhiana,15.0
+NOV-2004,Bihar,Muzaffarpur,8.5
+NOV-2004,Bihar,Patna,9.5
+NOV-2004,Bihar,Patna,9.5
+NOV-2004,Jammu Kashmir,Jammu,6.5
+NOV-2004,Punjab,Ludhiana,7.5
+DEC-2004,Bihar,Patna,14.0
+DEC-2004,Jammu Kashmir,Jammu,10.0
+DEC-2004,Punjab,Amritsar,5.0
+DEC-2004,Punjab,Bhatinda,15.0
+DEC-2004,Bihar,Patna,9.5
+DEC-2004,Bihar,Patna,9.0
+DEC-2004,Jammu Kashmir,Jammu,8.5
+DEC-2004,Punjab,Amritsar,7.0
+DEC-2004,Punjab,Bhatinda,7.5
+JAN-2005,Bihar,Patna,6.0
+JAN-2005,Jammu Kashmir,Jammu,10.0
+JAN-2005,Jammu Kashmir,Shrinagar,10.0
+JAN-2005,Punjab,Bhatinda,12.0
+JAN-2005,Punjab,Ludhiana,10.0
+JAN-2005,Bihar,Patna,10.0
+JAN-2005,Bihar,Patna,9.5
+JAN-2005,Jammu Kashmir,Jammu,8.5
+JAN-2005,Punjab,Amritsar,7.0
+JAN-2005,Punjab,Bhatinda,7.5
+JAN-2005,Punjab,Ludhiana,8.0
+FEB-2005,Bihar,Patna,5.0
+FEB-2005,Jammu Kashmir,Jammu,10.0
+FEB-2005,Jammu Kashmir,Shrinagar,20.0
+FEB-2005,Punjab,Bhatinda,12.0
+FEB-2005,Punjab,Ludhiana,10.0
+FEB-2005,Bihar,Patna,9.5
+FEB-2005,Bihar,Patna,9.0
+FEB-2005,Jammu Kashmir,Jammu,8.5
+FEB-2005,Punjab,Bhatinda,7.5
+FEB-2005,Punjab,Ludhiana,8.0
+MAR-2005,Bihar,Hajipur,8.0
+MAR-2005,Bihar,Patna,10.0
+MAR-2005,Jammu Kashmir,Jammu,10.0
+MAR-2005,Punjab,Amritsar,8.0
+MAR-2005,Punjab,Bhatinda,13.0
+MAR-2005,Bihar,Hajipur,9.5
+MAR-2005,Bihar,Hajipur,9.0
+MAR-2005,Bihar,Patna,10.0
+MAR-2005,Bihar,Patna,9.5
+MAR-2005,Jammu Kashmir,Jammu,8.5
+MAR-2005,Punjab,Amritsar,7.0
+MAR-2005,Punjab,Bhatinda,7.5
+APR-2005,Bihar,Hajipur,8.0
+APR-2005,Bihar,Patna,8.0
+APR-2005,Jammu Kashmir,Jammu,15.0
+APR-2005,Punjab,Amritsar,8.0
+APR-2005,Punjab,Bhatinda,16.0
+APR-2005,Punjab,Ludhiana,10.0
+APR-2005,Bihar,Hajipur,9.0
+APR-2005,Bihar,Hajipur,8.5
+APR-2005,Bihar,Patna,9.5
+APR-2005,Bihar,Patna,9.0
+APR-2005,Jammu Kashmir,Jammu,8.5
+APR-2005,Punjab,Amritsar,7.0
+APR-2005,Punjab,Bhatinda,7.25
+APR-2005,Punjab,Ludhiana,8.0
+MAY-2005,Bihar,Hajipur,8.0
+MAY-2005,Bihar,Patna,10.0
+MAY-2005,Jammu Kashmir,Jammu,10.0
+MAY-2005,Punjab,Amritsar,8.0
+MAY-2005,Punjab,Bhatinda,10.0
+MAY-2005,Bihar,Hajipur,9.0
+MAY-2005,Bihar,Hajipur,8.5
+MAY-2005,Bihar,Patna,9.0
+MAY-2005,Bihar,Patna,8.5
+MAY-2005,Jammu Kashmir,Jammu,8.5
+MAY-2005,Punjab,Amritsar,7.0
+MAY-2005,Punjab,Bhatinda,6.7
+JUN-2005,Bihar,Hajipur,12.0
+JUN-2005,Bihar,Patna,14.0
+JUN-2005,Jammu Kashmir,Jammu,10.0
+JUN-2005,Jammu Kashmir,Shrinagar,22.0
+JUN-2005,Punjab,Amritsar,5.0
+JUN-2005,Punjab,Bhatinda,20.0
+JUN-2005,Bihar,Hajipur,9.0
+JUN-2005,Bihar,Hajipur,8.5
+JUN-2005,Bihar,Patna,9.0
+JUN-2005,Bihar,Patna,8.5
+JUN-2005,Jammu Kashmir,Jammu,8.5
+JUN-2005,Punjab,Amritsar,7.0
+JUN-2005,Punjab,Bhatinda,7.5
+JUL-2005,Bihar,Hajipur,18.0
+JUL-2005,Bihar,Patna,24.0
+JUL-2005,Jammu Kashmir,Jammu,20.0
+JUL-2005,Punjab,Amritsar,5.5
+JUL-2005,Punjab,Bhatinda,15.0
+JUL-2005,Punjab,Ludhiana,10.0
+JUL-2005,Bihar,Hajipur,9.0
+JUL-2005,Bihar,Hajipur,8.75
+JUL-2005,Bihar,Patna,10.0
+JUL-2005,Bihar,Patna,9.0
+JUL-2005,Jammu Kashmir,Jammu,8.5
+JUL-2005,Punjab,Amritsar,7.0
+JUL-2005,Punjab,Bhatinda,7.5
+JUL-2005,Punjab,Ludhiana,8.0
+AUG-2005,Bihar,Muzaffarpur,25.0
+AUG-2005,Bihar,Patna,24.0
+AUG-2005,Jammu Kashmir,Jammu,20.0
+AUG-2005,Jammu Kashmir,Shrinagar,10.0
+AUG-2005,Punjab,Amritsar,5.0
+AUG-2005,Punjab,Ludhiana,10.0
+AUG-2005,Bihar,Muzaffarpur,8.5
+AUG-2005,Bihar,Patna,10.0
+AUG-2005,Bihar,Patna,9.5
+AUG-2005,Jammu Kashmir,Jammu,8.5
+AUG-2005,Punjab,Amritsar,7.0
+AUG-2005,Punjab,Ludhiana,8.0
+SEP-2005,Bihar,Gaya,20.0
+SEP-2005,Bihar,Muzaffarpur,14.0
+SEP-2005,Bihar,Patna,16.0
+SEP-2005,Jammu Kashmir,Jammu,15.0
+SEP-2005,Jammu Kashmir,Shrinagar,10.0
+SEP-2005,Punjab,Amritsar,10.0
+SEP-2005,Punjab,Ludhiana,15.0
+SEP-2005,Bihar,Gaya,9.0
+SEP-2005,Bihar,Muzaffarpur,9.0
+SEP-2005,Bihar,Muzaffarpur,8.5
+SEP-2005,Bihar,Patna,9.5
+SEP-2005,Bihar,Patna,9.0
+SEP-2005,Jammu Kashmir,Jammu,8.5
+SEP-2005,Punjab,Amritsar,7.0
+SEP-2005,Punjab,Ludhiana,8.0
+OCT-2005,Bihar,Patna,20.0
+OCT-2005,Jammu Kashmir,Jammu,20.0
+OCT-2005,Punjab,Amritsar,16.0
+OCT-2005,Punjab,Ludhiana,20.0
+OCT-2005,Bihar,Patna,9.5
+OCT-2005,Bihar,Patna,9.0
+OCT-2005,Jammu Kashmir,Jammu,8.5
+OCT-2005,Punjab,Amritsar,7.0
+OCT-2005,Punjab,Ludhiana,8.0
+NOV-2005,Bihar,Patna,20.0
+NOV-2005,Jammu Kashmir,Jammu,20.0
+NOV-2005,Jammu Kashmir,Shrinagar,20.0
+NOV-2005,Punjab,Ludhiana,15.0
+NOV-2005,Bihar,Patna,9.5
+NOV-2005,Bihar,Patna,9.0
+NOV-2005,Jammu Kashmir,Jammu,8.5
+NOV-2005,Punjab,Ludhiana,8.0
+DEC-2005,Bihar,Patna,10.0
+DEC-2005,Jammu Kashmir,Jammu,10.0
+DEC-2005,Jammu Kashmir,Shrinagar,15.0
+DEC-2005,Punjab,Amritsar,10.0
+DEC-2005,Punjab,Ludhiana,10.0
+DEC-2005,Bihar,Patna,9.5
+DEC-2005,Bihar,Patna,9.0
+DEC-2005,Jammu Kashmir,Jammu,8.5
+DEC-2005,Punjab,Amritsar,7.0
+DEC-2005,Punjab,Ludhiana,8.0
+JAN-2006,Bihar,Patna,4.0
+JAN-2006,Jammu Kashmir,Jammu,10.0
+JAN-2006,Punjab,Amritsar,10.0
+JAN-2006,Punjab,Bhatinda,12.0
+JAN-2006,Punjab,Ludhiana,10.0
+JAN-2006,Bihar,Patna,9.5
+JAN-2006,Bihar,Patna,9.0
+JAN-2006,Jammu Kashmir,Jammu,9.5
+JAN-2006,Punjab,Amritsar,7.0
+JAN-2006,Punjab,Bhatinda,9.9
+JAN-2006,Punjab,Ludhiana,8.5
+FEB-2006,Bihar,Patna,3.0
+FEB-2006,Jammu Kashmir,Jammu,10.0
+FEB-2006,Punjab,Amritsar,10.0
+FEB-2006,Punjab,Bhatinda,12.0
+FEB-2006,Punjab,Ludhiana,15.0
+FEB-2006,Bihar,Patna,12.0
+FEB-2006,Bihar,Patna,11.0
+FEB-2006,Jammu Kashmir,Jammu,9.5
+FEB-2006,Punjab,Amritsar,7.0
+FEB-2006,Punjab,Bhatinda,10.0
+FEB-2006,Punjab,Ludhiana,9.0
+MAR-2006,Bihar,Patna,6.0
+MAR-2006,Jammu Kashmir,Jammu,14.0
+MAR-2006,Punjab,Amritsar,12.0
+MAR-2006,Punjab,Bhatinda,10.0
+MAR-2006,Punjab,Ludhiana,15.0
+MAR-2006,Bihar,Patna,11.0
+MAR-2006,Bihar,Patna,10.0
+MAR-2006,Jammu Kashmir,Jammu,9.5
+MAR-2006,Punjab,Amritsar,9.5
+MAR-2006,Punjab,Bhatinda,10.0
+MAR-2006,Punjab,Ludhiana,9.0
+APR-2006,Bihar,Patna,4.0
+APR-2006,Jammu Kashmir,Jammu,10.0
+APR-2006,Punjab,Amritsar,14.0
+APR-2006,Punjab,Bhatinda,10.0
+APR-2006,Punjab,Ludhiana,10.0
+APR-2006,Bihar,Patna,12.0
+APR-2006,Bihar,Patna,11.0
+APR-2006,Jammu Kashmir,Jammu,9.5
+APR-2006,Punjab,Amritsar,9.5
+APR-2006,Punjab,Bhatinda,8.5
+APR-2006,Punjab,Ludhiana,8.0
+MAY-2006,Bihar,Patna,8.0
+MAY-2006,Jammu Kashmir,Jammu,8.0
+MAY-2006,Jammu Kashmir,Shrinagar,12.0
+MAY-2006,Punjab,Amritsar,6.0
+MAY-2006,Punjab,Bhatinda,10.0
+MAY-2006,Punjab,Ludhiana,10.0
+MAY-2006,Bihar,Patna,12.0
+MAY-2006,Bihar,Patna,10.5
+MAY-2006,Jammu Kashmir,Jammu,8.0
+MAY-2006,Punjab,Amritsar,7.3
+MAY-2006,Punjab,Amritsar,7.5
+MAY-2006,Punjab,Bhatinda,8.5
+MAY-2006,Punjab,Ludhiana,8.0
+JUN-2006,Bihar,Patna,35.0
+JUN-2006,Jammu Kashmir,Jammu,25.0
+JUN-2006,Jammu Kashmir,Shrinagar,40.0
+JUN-2006,Punjab,Amritsar,30.0
+JUN-2006,Punjab,Bhatinda,35.0
+JUN-2006,Punjab,Ludhiana,10.0
+JUN-2006,Bihar,Patna,11.0
+JUN-2006,Bihar,Patna,10.0
+JUN-2006,Jammu Kashmir,Jammu,8.0
+JUN-2006,Punjab,Amritsar,7.2
+JUN-2006,Punjab,Amritsar,7.5
+JUN-2006,Punjab,Bhatinda,8.5
+JUN-2006,Punjab,Ludhiana,8.0
+JUL-2006,Bihar,Hajipur,20.0
+JUL-2006,Bihar,Patna,20.0
+JUL-2006,Jammu Kashmir,Jammu,12.0
+JUL-2006,Punjab,Amritsar,20.0
+JUL-2006,Punjab,Bhatinda,18.0
+JUL-2006,Punjab,Ludhiana,20.0
+JUL-2006,Bihar,Hajipur,12.0
+JUL-2006,Bihar,Hajipur,11.0
+JUL-2006,Bihar,Patna,12.0
+JUL-2006,Bihar,Patna,11.0
+JUL-2006,Jammu Kashmir,Jammu,8.0
+JUL-2006,Punjab,Amritsar,7.5
+JUL-2006,Punjab,Amritsar,7.8
+JUL-2006,Punjab,Bhatinda,8.9
+JUL-2006,Punjab,Ludhiana,8.0
+AUG-2006,Bihar,Patna,20.0
+AUG-2006,Jammu Kashmir,Jammu,20.0
+AUG-2006,Jammu Kashmir,Shrinagar,15.0
+AUG-2006,Punjab,Amritsar,15.0
+AUG-2006,Punjab,Bhatinda,22.0
+AUG-2006,Punjab,Ludhiana,20.0
+AUG-2006,Bihar,Patna,13.0
+AUG-2006,Bihar,Patna,11.0
+AUG-2006,Jammu Kashmir,Jammu,9.0
+AUG-2006,Punjab,Amritsar,9.0
+AUG-2006,Punjab,Amritsar,8.5
+AUG-2006,Punjab,Bhatinda,9.5
+AUG-2006,Punjab,Ludhiana,10.0
+AUG-2006,Punjab,Ludhiana,8.0
+SEP-2006,Bihar,Patna,24.0
+SEP-2006,Jammu Kashmir,Jammu,30.0
+SEP-2006,Jammu Kashmir,Shrinagar,20.0
+SEP-2006,Punjab,Amritsar,20.0
+SEP-2006,Punjab,Bhatinda,25.0
+SEP-2006,Punjab,Ludhiana,16.0
+SEP-2006,Bihar,Patna,13.0
+SEP-2006,Bihar,Patna,11.0
+SEP-2006,Jammu Kashmir,Jammu,10.0
+SEP-2006,Punjab,Amritsar,9.5
+SEP-2006,Punjab,Amritsar,9.5
+SEP-2006,Punjab,Bhatinda,9.8
+SEP-2006,Punjab,Ludhiana,9.0
+SEP-2006,Punjab,Ludhiana,9.0
+OCT-2006,Bihar,Patna,16.0
+OCT-2006,Jammu Kashmir,Jammu,15.0
+OCT-2006,Punjab,Amritsar,25.0
+OCT-2006,Punjab,Bhatinda,16.0
+OCT-2006,Punjab,Ludhiana,16.0
+OCT-2006,Bihar,Patna,13.0
+OCT-2006,Bihar,Patna,11.5
+OCT-2006,Jammu Kashmir,Jammu,10.0
+OCT-2006,Punjab,Amritsar,9.0
+OCT-2006,Punjab,Amritsar,9.5
+OCT-2006,Punjab,Bhatinda,10.0
+OCT-2006,Punjab,Ludhiana,9.0
+OCT-2006,Punjab,Ludhiana,9.0
+NOV-2006,Bihar,Patna,16.0
+NOV-2006,Jammu Kashmir,Jammu,20.0
+NOV-2006,Jammu Kashmir,Shrinagar,20.0
+NOV-2006,Punjab,Amritsar,15.0
+NOV-2006,Punjab,Bhatinda,20.0
+NOV-2006,Punjab,Ludhiana,15.0
+NOV-2006,Bihar,Patna,13.5
+NOV-2006,Bihar,Patna,12.0
+NOV-2006,Jammu Kashmir,Jammu,12.0
+NOV-2006,Punjab,Amritsar,10.8
+NOV-2006,Punjab,Amritsar,10.5
+NOV-2006,Punjab,Bhatinda,11.6
+NOV-2006,Punjab,Ludhiana,9.0
+DEC-2006,Bihar,Patna,10.0
+DEC-2006,Jammu Kashmir,Jammu,20.0
+DEC-2006,Jammu Kashmir,Shrinagar,20.0
+DEC-2006,Punjab,Amritsar,15.0
+DEC-2006,Punjab,Bhatinda,18.0
+DEC-2006,Punjab,Ludhiana,20.0
+DEC-2006,Bihar,Patna,14.0
+DEC-2006,Bihar,Patna,13.0
+DEC-2006,Jammu Kashmir,Jammu,12.0
+DEC-2006,Punjab,Amritsar,10.0
+DEC-2006,Punjab,Amritsar,10.3
+DEC-2006,Punjab,Bhatinda,11.0
+DEC-2006,Punjab,Ludhiana,9.0
+JAN-2007,Bihar,Patna,10.0
+JAN-2007,Jammu Kashmir,Jammu,20.0
+JAN-2007,Jammu Kashmir,Shrinagar,20.0
+JAN-2007,Punjab,Amritsar,15.0
+JAN-2007,Punjab,Bhatinda,20.0
+JAN-2007,Punjab,Ludhiana,20.0
+JAN-2007,Bihar,Patna,14.0
+JAN-2007,Bihar,Patna,13.0
+JAN-2007,Jammu Kashmir,Jammu,11.0
+JAN-2007,Punjab,Amritsar,10.2
+JAN-2007,Punjab,Amritsar,10.3
+JAN-2007,Punjab,Bhatinda,11.0
+JAN-2007,Punjab,Ludhiana,12.0
+FEB-2007,Bihar,Patna,8.0
+FEB-2007,Jammu Kashmir,Jammu,15.0
+FEB-2007,Punjab,Amritsar,10.0
+FEB-2007,Punjab,Bhatinda,20.0
+FEB-2007,Punjab,Ludhiana,20.0
+FEB-2007,Bihar,Patna,14.0
+FEB-2007,Bihar,Patna,13.0
+FEB-2007,Jammu Kashmir,Jammu,12.0
+FEB-2007,Punjab,Amritsar,10.3
+FEB-2007,Punjab,Amritsar,12.0
+FEB-2007,Punjab,Bhatinda,10.9
+FEB-2007,Punjab,Ludhiana,12.0
+MAR-2007,Bihar,Patna,12.0
+MAR-2007,Jammu Kashmir,Jammu,15.0
+MAR-2007,Punjab,Amritsar,12.0
+MAR-2007,Punjab,Bhatinda,15.0
+MAR-2007,Punjab,Ludhiana,18.0
+MAR-2007,Bihar,Patna,14.0
+MAR-2007,Bihar,Patna,13.0
+MAR-2007,Jammu Kashmir,Jammu,12.0
+MAR-2007,Punjab,Amritsar,9.2
+MAR-2007,Punjab,Amritsar,9.5
+MAR-2007,Punjab,Bhatinda,10.5
+MAR-2007,Punjab,Ludhiana,12.0
+APR-2007,Bihar,Patna,6.0
+APR-2007,Jammu Kashmir,Jammu,15.0
+APR-2007,Jammu Kashmir,Shrinagar,20.0
+APR-2007,Punjab,Amritsar,15.0
+APR-2007,Punjab,Bhatinda,15.0
+APR-2007,Punjab,Ludhiana,18.0
+APR-2007,Bihar,Patna,13.0
+APR-2007,Bihar,Patna,12.0
+APR-2007,Jammu Kashmir,Jammu,12.0
+APR-2007,Punjab,Amritsar,8.9
+APR-2007,Punjab,Amritsar,9.0
+APR-2007,Punjab,Bhatinda,9.5
+APR-2007,Punjab,Ludhiana,12.0
+MAY-2007,Bihar,Patna,8.0
+MAY-2007,Jammu Kashmir,Jammu,20.0
+MAY-2007,Jammu Kashmir,Shrinagar,20.0
+MAY-2007,Punjab,Amritsar,15.0
+MAY-2007,Punjab,Bhatinda,18.0
+MAY-2007,Punjab,Ludhiana,15.0
+MAY-2007,Bihar,Patna,13.5
+MAY-2007,Bihar,Patna,13.0
+MAY-2007,Jammu Kashmir,Jammu,12.0
+MAY-2007,Punjab,Amritsar,8.9
+MAY-2007,Punjab,Amritsar,9.0
+MAY-2007,Punjab,Bhatinda,9.0
+MAY-2007,Punjab,Ludhiana,12.0
+JUN-2007,Bihar,Gaya,20.0
+JUN-2007,Bihar,Patna,22.0
+JUN-2007,Jammu Kashmir,Jammu,20.0
+JUN-2007,Jammu Kashmir,Shrinagar,20.0
+JUN-2007,Punjab,Amritsar,10.0
+JUN-2007,Punjab,Bhatinda,20.0
+JUN-2007,Punjab,Ludhiana,15.0
+JUN-2007,Bihar,Gaya,13.5
+JUN-2007,Bihar,Gaya,12.5
+JUN-2007,Bihar,Patna,14.0
+JUN-2007,Bihar,Patna,13.0
+JUN-2007,Jammu Kashmir,Jammu,11.0
+JUN-2007,Punjab,Amritsar,8.7
+JUN-2007,Punjab,Amritsar,9.0
+JUN-2007,Punjab,Bhatinda,9.7
+JUN-2007,Punjab,Ludhiana,12.0
+JUL-2007,Bihar,Gaya,38.0
+JUL-2007,Bihar,Muzaffarpur,28.0
+JUL-2007,Bihar,Patna,32.0
+JUL-2007,Jammu Kashmir,Jammu,20.0
+JUL-2007,Jammu Kashmir,Shrinagar,25.0
+JUL-2007,Punjab,Amritsar,20.0
+JUL-2007,Punjab,Bhatinda,20.0
+JUL-2007,Punjab,Ludhiana,20.0
+JUL-2007,Bihar,Gaya,13.0
+JUL-2007,Bihar,Gaya,12.0
+JUL-2007,Bihar,Muzaffarpur,12.0
+JUL-2007,Bihar,Patna,13.0
+JUL-2007,Bihar,Patna,12.0
+JUL-2007,Jammu Kashmir,Jammu,12.0
+JUL-2007,Punjab,Amritsar,9.25
+JUL-2007,Punjab,Bhatinda,10.6
+JUL-2007,Punjab,Ludhiana,12.0
+AUG-2007,Bihar,Patna,30.0
+AUG-2007,Jammu Kashmir,Jammu,16.0
+AUG-2007,Punjab,Amritsar,20.0
+AUG-2007,Punjab,Bhatinda,18.0
+AUG-2007,Punjab,Ludhiana,20.0
+AUG-2007,Bihar,Patna,14.0
+AUG-2007,Bihar,Patna,13.0
+AUG-2007,Jammu Kashmir,Jammu,12.0
+AUG-2007,Punjab,Amritsar,9.5
+AUG-2007,Punjab,Bhatinda,9.5
+AUG-2007,Punjab,Ludhiana,12.0
+SEP-2007,Bihar,Hajipur,30.0
+SEP-2007,Bihar,Patna,30.0
+SEP-2007,Jammu Kashmir,Jammu,15.0
+SEP-2007,Punjab,Amritsar,20.0
+SEP-2007,Punjab,Bhatinda,16.0
+SEP-2007,Punjab,Ludhiana,20.0
+SEP-2007,Bihar,Hajipur,14.0
+SEP-2007,Bihar,Hajipur,13.0
+SEP-2007,Bihar,Patna,14.0
+SEP-2007,Bihar,Patna,13.0
+SEP-2007,Jammu Kashmir,Jammu,12.0
+SEP-2007,Punjab,Amritsar,10.0
+SEP-2007,Punjab,Bhatinda,9.75
+SEP-2007,Punjab,Ludhiana,12.0
+OCT-2007,Bihar,Patna,16.0
+OCT-2007,Jammu Kashmir,Jammu,20.0
+OCT-2007,Punjab,Amritsar,15.0
+OCT-2007,Punjab,Bhatinda,15.0
+OCT-2007,Punjab,Ludhiana,20.0
+OCT-2007,Bihar,Patna,14.0
+OCT-2007,Bihar,Patna,13.0
+OCT-2007,Jammu Kashmir,Jammu,12.0
+OCT-2007,Punjab,Amritsar,10.25
+OCT-2007,Punjab,Bhatinda,10.0
+OCT-2007,Punjab,Ludhiana,12.0
+NOV-2007,Bihar,Patna,16.0
+NOV-2007,Jammu Kashmir,Jammu,16.0
+NOV-2007,Punjab,Ludhiana,15.0
+NOV-2007,Bihar,Patna,14.0
+NOV-2007,Bihar,Patna,13.0
+NOV-2007,Jammu Kashmir,Jammu,12.0
+NOV-2007,Jammu Kashmir,Jammu,12.0
+NOV-2007,Punjab,Ludhiana,12.0
+DEC-2007,Bihar,Patna,12.0
+DEC-2007,Jammu Kashmir,Jammu,12.0
+DEC-2007,Punjab,Amritsar,15.0
+DEC-2007,Punjab,Bhatinda,14.0
+DEC-2007,Punjab,Ludhiana,12.0
+DEC-2007,Bihar,Patna,14.0
+DEC-2007,Bihar,Patna,13.0
+DEC-2007,Jammu Kashmir,Jammu,12.0
+DEC-2007,Jammu Kashmir,Jammu,12.0
+DEC-2007,Punjab,Amritsar,10.5
+DEC-2007,Punjab,Bhatinda,10.7
+DEC-2007,Punjab,Ludhiana,12.0
+JAN-2008,Bihar,Patna,8.0
+JAN-2008,Jammu Kashmir,Jammu,15.0
+JAN-2008,Punjab,Amritsar,15.0
+JAN-2008,Punjab,Bhatinda,15.0
+JAN-2008,Punjab,Ludhiana,12.0
+JAN-2008,Bihar,Patna,14.0
+JAN-2008,Bihar,Patna,13.0
+JAN-2008,Jammu Kashmir,Jammu,12.0
+JAN-2008,Jammu Kashmir,Jammu,12.0
+JAN-2008,Punjab,Amritsar,10.5
+JAN-2008,Punjab,Bhatinda,10.5
+JAN-2008,Punjab,Ludhiana,12.0
+FEB-2008,Bihar,Patna,8.0
+FEB-2008,Jammu Kashmir,Jammu,20.0
+FEB-2008,Punjab,Amritsar,20.0
+FEB-2008,Punjab,Bhatinda,18.0
+FEB-2008,Punjab,Ludhiana,20.0
+FEB-2008,Bihar,Patna,14.5
+FEB-2008,Bihar,Patna,13.5
+FEB-2008,Jammu Kashmir,Jammu,12.0
+FEB-2008,Punjab,Amritsar,10.8
+FEB-2008,Punjab,Bhatinda,10.5
+FEB-2008,Punjab,Ludhiana,12.0
+MAR-2008,Bihar,Patna,10.0
+MAR-2008,Jammu Kashmir,Jammu,20.0
+MAR-2008,Punjab,Amritsar,20.0
+MAR-2008,Punjab,Ludhiana,20.0
+MAR-2008,Bihar,Patna,15.0
+MAR-2008,Bihar,Patna,14.0
+MAR-2008,Jammu Kashmir,Jammu,12.0
+MAR-2008,Punjab,Amritsar,12.5
+MAR-2008,Punjab,Ludhiana,12.0
+APR-2008,Bihar,Patna,14.0
+APR-2008,Jammu Kashmir,Jammu,20.0
+APR-2008,Punjab,Amritsar,25.0
+APR-2008,Punjab,Bhatinda,18.0
+APR-2008,Punjab,Ludhiana,20.0
+APR-2008,Bihar,Patna,15.0
+APR-2008,Bihar,Patna,14.0
+APR-2008,Jammu Kashmir,Jammu,12.5
+APR-2008,Punjab,Amritsar,10.4
+APR-2008,Punjab,Bhatinda,10.5
+APR-2008,Punjab,Ludhiana,12.0
+MAY-2008,Bihar,Patna,10.0
+MAY-2008,Jammu Kashmir,Jammu,10.0
+MAY-2008,Jammu Kashmir,Shrinagar,13.0
+MAY-2008,Punjab,Amritsar,12.0
+MAY-2008,Punjab,Bhatinda,10.0
+MAY-2008,Punjab,Ludhiana,10.0
+MAY-2008,Bihar,Patna,14.0
+MAY-2008,Bihar,Patna,13.0
+MAY-2008,Jammu Kashmir,Jammu,12.5
+MAY-2008,Punjab,Amritsar,10.5
+MAY-2008,Punjab,Bhatinda,10.5
+MAY-2008,Punjab,Ludhiana,12.0
+JUN-2008,Bihar,Patna,24.0
+JUN-2008,Jammu Kashmir,Jammu,15.0
+JUN-2008,Punjab,Amritsar,10.0
+JUN-2008,Punjab,Bhatinda,16.0
+JUN-2008,Punjab,Ludhiana,10.0
+JUN-2008,Bihar,Patna,13.0
+JUN-2008,Bihar,Patna,12.0
+JUN-2008,Jammu Kashmir,Jammu,12.5
+JUN-2008,Punjab,Amritsar,10.7
+JUN-2008,Punjab,Bhatinda,10.6
+JUN-2008,Punjab,Ludhiana,13.0
+JUL-2008,Bihar,Patna,24.0
+JUL-2008,Jammu Kashmir,Shrinagar,15.0
+JUL-2008,Punjab,Amritsar,15.0
+JUL-2008,Punjab,Bhatinda,20.0
+JUL-2008,Punjab,Ludhiana,20.0
+JUL-2008,Bihar,Patna,13.5
+JUL-2008,Bihar,Patna,12.0
+JUL-2008,Punjab,Amritsar,10.7
+JUL-2008,Punjab,Bhatinda,10.55
+JUL-2008,Punjab,Ludhiana,13.0
+AUG-2008,Bihar,Patna,24.0
+AUG-2008,Jammu Kashmir,Shrinagar,15.0
+AUG-2008,Punjab,Amritsar,15.0
+AUG-2008,Punjab,Bhatinda,40.0
+AUG-2008,Punjab,Ludhiana,20.0
+AUG-2008,Bihar,Patna,13.0
+AUG-2008,Bihar,Patna,12.0
+AUG-2008,Punjab,Amritsar,10.7
+AUG-2008,Punjab,Bhatinda,10.55
+AUG-2008,Punjab,Ludhiana,13.0
+SEP-2008,Bihar,Patna,24.0
+SEP-2008,Jammu Kashmir,Jammu,30.0
+SEP-2008,Jammu Kashmir,Shrinagar,15.0
+SEP-2008,Punjab,Amritsar,15.0
+SEP-2008,Punjab,Bhatinda,18.0
+SEP-2008,Punjab,Ludhiana,30.0
+SEP-2008,Bihar,Patna,13.0
+SEP-2008,Bihar,Patna,12.0
+SEP-2008,Jammu Kashmir,Jammu,12.0
+SEP-2008,Punjab,Amritsar,10.4
+SEP-2008,Punjab,Bhatinda,10.6
+SEP-2008,Punjab,Ludhiana,13.0
+OCT-2008,Bihar,Patna,38.0
+OCT-2008,Jammu Kashmir,Jammu,40.0
+OCT-2008,Punjab,Amritsar,40.0
+OCT-2008,Punjab,Bhatinda,28.0
+OCT-2008,Punjab,Ludhiana,35.0
+OCT-2008,Bihar,Patna,14.0
+OCT-2008,Bihar,Patna,13.0
+OCT-2008,Jammu Kashmir,Jammu,12.0
+OCT-2008,Punjab,Amritsar,10.5
+OCT-2008,Punjab,Bhatinda,10.8
+OCT-2008,Punjab,Ludhiana,13.0
+NOV-2008,Bihar,Patna,32.0
+NOV-2008,Jammu Kashmir,Jammu,25.0
+NOV-2008,Punjab,Amritsar,25.0
+NOV-2008,Punjab,Bhatinda,22.0
+NOV-2008,Punjab,Ludhiana,35.0
+NOV-2008,Bihar,Patna,14.0
+NOV-2008,Bihar,Patna,13.5
+NOV-2008,Jammu Kashmir,Jammu,12.0
+NOV-2008,Punjab,Amritsar,10.5
+NOV-2008,Punjab,Bhatinda,10.9
+NOV-2008,Punjab,Ludhiana,13.0
+DEC-2008,Bihar,Patna,16.0
+DEC-2008,Jammu Kashmir,Jammu,15.0
+DEC-2008,Jammu Kashmir,Shrinagar,20.0
+DEC-2008,Punjab,Amritsar,24.0
+DEC-2008,Punjab,Bhatinda,12.0
+DEC-2008,Punjab,Ludhiana,20.0
+DEC-2008,Bihar,Patna,14.0
+DEC-2008,Bihar,Patna,13.0
+DEC-2008,Jammu Kashmir,Jammu,12.0
+DEC-2008,Punjab,Amritsar,10.5
+DEC-2008,Punjab,Bhatinda,10.9
+DEC-2008,Punjab,Ludhiana,13.0
+JAN-2009,Bihar,Patna,8.0
+JAN-2009,Jammu Kashmir,Jammu,12.0
+JAN-2009,Jammu Kashmir,Shrinagar,20.0
+JAN-2009,Punjab,Amritsar,10.0
+JAN-2009,Punjab,Bhatinda,15.0
+JAN-2009,Punjab,Ludhiana,15.0
+JAN-2009,Bihar,Patna,13.5
+JAN-2009,Bihar,Patna,13.0
+JAN-2009,Jammu Kashmir,Jammu,12.0
+JAN-2009,Punjab,Amritsar,10.0
+JAN-2009,Punjab,Bhatinda,11.4
+JAN-2009,Punjab,Ludhiana,13.0
+FEB-2009,Bihar,Patna,10.0
+FEB-2009,Jammu Kashmir,Shrinagar,16.0
+FEB-2009,Punjab,Amritsar,12.0
+FEB-2009,Punjab,Bhatinda,15.0
+FEB-2009,Punjab,Ludhiana,10.0
+FEB-2009,Bihar,Patna,14.5
+FEB-2009,Bihar,Patna,14.0
+FEB-2009,Punjab,Amritsar,10.4
+FEB-2009,Punjab,Bhatinda,12.0
+FEB-2009,Punjab,Ludhiana,13.0
+MAR-2009,Bihar,Patna,10.0
+MAR-2009,Jammu Kashmir,Jammu,12.0
+MAR-2009,Jammu Kashmir,Shrinagar,13.0
+MAR-2009,Punjab,Amritsar,10.0
+MAR-2009,Punjab,Bhatinda,12.0
+MAR-2009,Punjab,Ludhiana,15.0
+MAR-2009,Bihar,Patna,15.0
+MAR-2009,Bihar,Patna,14.5
+MAR-2009,Jammu Kashmir,Jammu,12.0
+MAR-2009,Punjab,Amritsar,10.0
+MAR-2009,Punjab,Bhatinda,12.0
+MAR-2009,Punjab,Ludhiana,13.0
+APR-2009,Bihar,Patna,6.0
+APR-2009,Jammu Kashmir,Jammu,15.0
+APR-2009,Jammu Kashmir,Shrinagar,13.0
+APR-2009,Punjab,Amritsar,18.0
+APR-2009,Punjab,Bhatinda,8.0
+APR-2009,Punjab,Ludhiana,15.0
+APR-2009,Bihar,Patna,14.0
+APR-2009,Bihar,Patna,13.0
+APR-2009,Jammu Kashmir,Jammu,11.0
+APR-2009,Punjab,Amritsar,11.0
+APR-2009,Punjab,Bhatinda,11.0
+APR-2009,Punjab,Ludhiana,13.0
+MAY-2009,Bihar,Patna,6.0
+MAY-2009,Jammu Kashmir,Jammu,12.0
+MAY-2009,Punjab,Amritsar,10.0
+MAY-2009,Punjab,Ludhiana,15.0
+MAY-2009,Bihar,Patna,14.5
+MAY-2009,Bihar,Patna,14.0
+MAY-2009,Jammu Kashmir,Jammu,11.0
+MAY-2009,Punjab,Amritsar,10.8
+MAY-2009,Punjab,Ludhiana,14.0
+JUN-2009,Bihar,Patna,32.0
+JUN-2009,Jammu Kashmir,Jammu,30.0
+JUN-2009,Punjab,Amritsar,15.0
+JUN-2009,Punjab,Bhatinda,25.0
+JUN-2009,Punjab,Ludhiana,15.0
+JUN-2009,Bihar,Patna,15.0
+JUN-2009,Bihar,Patna,14.0
+JUN-2009,Jammu Kashmir,Jammu,11.0
+JUN-2009,Punjab,Amritsar,11.5
+JUN-2009,Punjab,Bhatinda,11.5
+JUN-2009,Punjab,Ludhiana,14.0
+JUL-2009,Bihar,Patna,32.0
+JUL-2009,Jammu Kashmir,Jammu,20.0
+JUL-2009,Punjab,Amritsar,23.0
+JUL-2009,Punjab,Bhatinda,40.0
+JUL-2009,Punjab,Ludhiana,30.0
+JUL-2009,Bihar,Patna,15.0
+JUL-2009,Bihar,Patna,14.0
+JUL-2009,Jammu Kashmir,Jammu,11.0
+JUL-2009,Punjab,Amritsar,11.5
+JUL-2009,Punjab,Bhatinda,11.0
+JUL-2009,Punjab,Ludhiana,14.0
+AUG-2009,Bihar,Patna,28.0
+AUG-2009,Jammu Kashmir,Jammu,30.0
+AUG-2009,Punjab,Amritsar,25.0
+AUG-2009,Punjab,Bhatinda,40.0
+AUG-2009,Punjab,Ludhiana,30.0
+AUG-2009,Bihar,Patna,15.0
+AUG-2009,Bihar,Patna,14.5
+AUG-2009,Jammu Kashmir,Jammu,11.0
+AUG-2009,Punjab,Amritsar,11.5
+AUG-2009,Punjab,Bhatinda,12.0
+AUG-2009,Punjab,Ludhiana,14.0
+SEP-2009,Bihar,Patna,19.0
+SEP-2009,Punjab,Amritsar,25.0
+SEP-2009,Punjab,Bhatinda,20.0
+SEP-2009,Punjab,Ludhiana,30.0
+SEP-2009,Bihar,Patna,15.0
+SEP-2009,Bihar,Patna,14.5
+SEP-2009,Punjab,Amritsar,11.5
+SEP-2009,Punjab,Bhatinda,12.0
+SEP-2009,Punjab,Ludhiana,14.0
+OCT-2009,Bihar,Patna,24.0
+OCT-2009,Jammu Kashmir,Jammu,20.0
+OCT-2009,Punjab,Amritsar,20.0
+OCT-2009,Punjab,Bhatinda,20.0
+OCT-2009,Punjab,Ludhiana,15.0
+OCT-2009,Bihar,Patna,16.0
+OCT-2009,Bihar,Patna,15.0
+OCT-2009,Jammu Kashmir,Jammu,14.0
+OCT-2009,Punjab,Amritsar,12.0
+OCT-2009,Punjab,Bhatinda,13.0
+OCT-2009,Punjab,Ludhiana,14.0
+NOV-2009,Bihar,Patna,24.0
+NOV-2009,Jammu Kashmir,Jammu,35.0
+NOV-2009,Punjab,Amritsar,35.0
+NOV-2009,Punjab,Bhatinda,40.0
+NOV-2009,Punjab,Ludhiana,20.0
+NOV-2009,Bihar,Patna,16.0
+NOV-2009,Bihar,Patna,15.0
+NOV-2009,Jammu Kashmir,Jammu,14.0
+NOV-2009,Punjab,Amritsar,12.0
+NOV-2009,Punjab,Bhatinda,15.0
+NOV-2009,Punjab,Ludhiana,14.0
+DEC-2009,Bihar,Patna,10.0
+DEC-2009,Jammu Kashmir,Jammu,15.0
+DEC-2009,Punjab,Amritsar,20.0
+DEC-2009,Punjab,Ludhiana,20.0
+DEC-2009,Bihar,Patna,16.5
+DEC-2009,Bihar,Patna,16.0
+DEC-2009,Jammu Kashmir,Jammu,15.0
+DEC-2009,Punjab,Amritsar,13.0
+DEC-2009,Punjab,Ludhiana,14.0
+JAN-2010,Bihar,Patna,10.0
+JAN-2010,Jammu Kashmir,Jammu,20.0
+JAN-2010,Punjab,Amritsar,20.0
+JAN-2010,Punjab,Bhatinda,25.0
+JAN-2010,Punjab,Ludhiana,15.0
+JAN-2010,Bihar,Patna,17.0
+JAN-2010,Bihar,Patna,16.5
+JAN-2010,Jammu Kashmir,Jammu,15.0
+JAN-2010,Punjab,Amritsar,13.0
+JAN-2010,Punjab,Bhatinda,14.0
+JAN-2010,Punjab,Ludhiana,14.0
+FEB-2010,Bihar,Patna,8.0
+FEB-2010,Jammu Kashmir,Jammu,15.0
+FEB-2010,Punjab,Amritsar,20.0
+FEB-2010,Punjab,Bhatinda,20.0
+FEB-2010,Punjab,Ludhiana,15.0
+FEB-2010,Bihar,Patna,17.5
+FEB-2010,Bihar,Patna,16.5
+FEB-2010,Jammu Kashmir,Jammu,14.0
+FEB-2010,Punjab,Amritsar,13.0
+FEB-2010,Punjab,Bhatinda,13.5
+FEB-2010,Punjab,Ludhiana,14.0
+MAR-2010,Bihar,Patna,12.0
+MAR-2010,Jammu Kashmir,Jammu,15.0
+MAR-2010,Punjab,Amritsar,20.0
+MAR-2010,Punjab,Bhatinda,20.0
+MAR-2010,Punjab,Ludhiana,20.0
+MAR-2010,Bihar,Patna,18.0
+MAR-2010,Bihar,Patna,17.0
+MAR-2010,Jammu Kashmir,Jammu,13.0
+MAR-2010,Punjab,Amritsar,13.0
+MAR-2010,Punjab,Bhatinda,12.0
+MAR-2010,Punjab,Ludhiana,14.0
+APR-2010,Bihar,Patna,9.0
+APR-2010,Jammu Kashmir,Jammu,20.0
+APR-2010,Punjab,Amritsar,15.0
+APR-2010,Punjab,Bhatinda,15.0
+APR-2010,Punjab,Ludhiana,15.0
+APR-2010,Bihar,Patna,18.0
+APR-2010,Bihar,Patna,16.0
+APR-2010,Jammu Kashmir,Jammu,11.0
+APR-2010,Punjab,Amritsar,12.0
+APR-2010,Punjab,Bhatinda,12.0
+APR-2010,Punjab,Ludhiana,14.0
+MAY-2010,Bihar,Patna,14.0
+MAY-2010,Jammu Kashmir,Jammu,10.0
+MAY-2010,Punjab,Amritsar,15.0
+MAY-2010,Punjab,Bhatinda,10.0
+MAY-2010,Punjab,Ludhiana,15.0
+MAY-2010,Bihar,Patna,16.0
+MAY-2010,Bihar,Patna,14.0
+MAY-2010,Jammu Kashmir,Jammu,14.0
+MAY-2010,Punjab,Amritsar,12.0
+MAY-2010,Punjab,Bhatinda,12.0
+MAY-2010,Punjab,Ludhiana,14.0
+JUN-2010,Bihar,Patna,19.0
+JUN-2010,Jammu Kashmir,Jammu,30.0
+JUN-2010,Punjab,Amritsar,20.0
+JUN-2010,Punjab,Bhatinda,15.0
+JUN-2010,Punjab,Ludhiana,18.0
+JUN-2010,Bihar,Patna,14.0
+JUN-2010,Bihar,Patna,13.0
+JUN-2010,Jammu Kashmir,Jammu,15.0
+JUN-2010,Punjab,Amritsar,12.0
+JUN-2010,Punjab,Bhatinda,12.0
+JUN-2010,Punjab,Ludhiana,14.0
+JUL-2010,Bihar,Patna,50.0
+JUL-2010,Jammu Kashmir,Jammu,40.0
+JUL-2010,Punjab,Amritsar,40.0
+JUL-2010,Punjab,Ludhiana,60.0
+JUL-2010,Bihar,Patna,16.0
+JUL-2010,Bihar,Patna,14.0
+JUL-2010,Jammu Kashmir,Jammu,14.0
+JUL-2010,Punjab,Amritsar,13.0
+JUL-2010,Punjab,Ludhiana,14.0
+AUG-2010,Bihar,Patna,32.0
+AUG-2010,Jammu Kashmir,Jammu,30.0
+AUG-2010,Punjab,Amritsar,40.0
+AUG-2010,Punjab,Bhatinda,35.0
+AUG-2010,Punjab,Ludhiana,60.0
+AUG-2010,Bihar,Patna,16.5
+AUG-2010,Bihar,Patna,15.0
+AUG-2010,Jammu Kashmir,Jammu,14.5
+AUG-2010,Punjab,Amritsar,13.0
+AUG-2010,Punjab,Bhatinda,13.0
+AUG-2010,Punjab,Ludhiana,14.0
+SEP-2010,Bihar,Patna,36.0
+SEP-2010,Jammu Kashmir,Jammu,40.0
+SEP-2010,Punjab,Amritsar,40.0
+SEP-2010,Punjab,Bhatinda,40.0
+SEP-2010,Punjab,Ludhiana,50.0
+SEP-2010,Bihar,Patna,18.0
+SEP-2010,Bihar,Patna,17.0
+SEP-2010,Jammu Kashmir,Jammu,14.0
+SEP-2010,Punjab,Amritsar,13.0
+SEP-2010,Punjab,Bhatinda,13.0
+SEP-2010,Punjab,Ludhiana,14.0
+OCT-2010,Bihar,Patna,20.0
+OCT-2010,Jammu Kashmir,Jammu,20.0
+OCT-2010,Punjab,Amritsar,30.0
+OCT-2010,Punjab,Ludhiana,20.0
+OCT-2010,Bihar,Patna,17.0
+OCT-2010,Bihar,Patna,16.0
+OCT-2010,Jammu Kashmir,Jammu,14.0
+OCT-2010,Punjab,Amritsar,13.0
+OCT-2010,Punjab,Ludhiana,14.0
+NOV-2010,Bihar,Patna,16.0
+NOV-2010,Jammu Kashmir,Jammu,15.0
+NOV-2010,Punjab,Amritsar,15.0
+NOV-2010,Punjab,Bhatinda,15.0
+NOV-2010,Punjab,Ludhiana,30.0
+NOV-2010,Bihar,Patna,18.5
+NOV-2010,Bihar,Patna,17.0
+NOV-2010,Jammu Kashmir,Jammu,14.0
+NOV-2010,Punjab,Amritsar,13.0
+NOV-2010,Punjab,Bhatinda,13.0
+NOV-2010,Punjab,Ludhiana,14.0
+DEC-2010,Bihar,Patna,20.0
+DEC-2010,Jammu Kashmir,Jammu,40.0
+DEC-2010,Punjab,Amritsar,50.0
+DEC-2010,Punjab,Bhatinda,40.0
+DEC-2010,Punjab,Ludhiana,20.0
+DEC-2010,Bihar,Patna,19.0
+DEC-2010,Bihar,Patna,17.0
+DEC-2010,Jammu Kashmir,Jammu,14.5
+DEC-2010,Punjab,Amritsar,13.0
+DEC-2010,Punjab,Bhatinda,13.0
+DEC-2010,Punjab,Ludhiana,14.0
+JAN-2011,Bihar,Patna,16.0
+JAN-2011,Jammu Kashmir,Jammu,30.0
+JAN-2011,Punjab,Amritsar,40.0
+JAN-2011,Punjab,Bhatinda,35.0
+JAN-2011,Punjab,Ludhiana,30.0
+JAN-2011,Bihar,Patna,18.0
+JAN-2011,Bihar,Patna,17.0
+JAN-2011,Jammu Kashmir,Jammu,15.0
+JAN-2011,Punjab,Amritsar,14.0
+JAN-2011,Punjab,Bhatinda,13.0
+JAN-2011,Punjab,Ludhiana,14.0
+FEB-2011,Bihar,Patna,10.0
+FEB-2011,Jammu Kashmir,Jammu,15.0
+FEB-2011,Punjab,Amritsar,18.0
+FEB-2011,Punjab,Bhatinda,20.0
+FEB-2011,Punjab,Ludhiana,25.0
+FEB-2011,Bihar,Patna,18.5
+FEB-2011,Bihar,Patna,17.5
+FEB-2011,Jammu Kashmir,Jammu,14.5
+FEB-2011,Punjab,Amritsar,14.0
+FEB-2011,Punjab,Bhatinda,13.0
+FEB-2011,Punjab,Ludhiana,14.0
+MAR-2011,Bihar,Patna,13.0
+MAR-2011,Jammu Kashmir,Jammu,15.0
+MAR-2011,Punjab,Amritsar,25.0
+MAR-2011,Punjab,Bhatinda,25.0
+MAR-2011,Punjab,Ludhiana,25.0
+MAR-2011,Bihar,Patna,19.0
+MAR-2011,Bihar,Patna,18.0
+MAR-2011,Jammu Kashmir,Jammu,14.0
+MAR-2011,Punjab,Amritsar,15.0
+MAR-2011,Punjab,Bhatinda,13.0
+MAR-2011,Punjab,Ludhiana,14.0
+APR-2011,Bihar,Patna,12.0
+APR-2011,Jammu Kashmir,Jammu,20.0
+APR-2011,Punjab,Amritsar,32.0
+APR-2011,Punjab,Bhatinda,25.0
+APR-2011,Punjab,Ludhiana,30.0
+APR-2011,Bihar,Patna,19.0
+APR-2011,Bihar,Patna,19.0
+APR-2011,Jammu Kashmir,Jammu,13.0
+APR-2011,Punjab,Amritsar,15.0
+APR-2011,Punjab,Bhatinda,13.0
+APR-2011,Punjab,Ludhiana,14.0
+MAY-2011,Bihar,Patna,10.0
+MAY-2011,Jammu Kashmir,Jammu,15.0
+MAY-2011,Punjab,Amritsar,5.0
+MAY-2011,Punjab,Bhatinda,10.0
+MAY-2011,Punjab,Ludhiana,20.0
+MAY-2011,Bihar,Patna,20.0
+MAY-2011,Bihar,Patna,18.0
+MAY-2011,Jammu Kashmir,Jammu,13.0
+MAY-2011,Punjab,Amritsar,16.0
+MAY-2011,Punjab,Bhatinda,13.0
+MAY-2011,Punjab,Ludhiana,14.0
+JUN-2011,Bihar,Patna,20.0
+JUN-2011,Jammu Kashmir,Jammu,30.0
+JUN-2011,Punjab,Amritsar,5.0
+JUN-2011,Punjab,Bhatinda,20.0
+JUN-2011,Punjab,Ludhiana,20.0
+JUN-2011,Bihar,Patna,19.0
+JUN-2011,Bihar,Patna,17.0
+JUN-2011,Jammu Kashmir,Jammu,13.0
+JUN-2011,Punjab,Amritsar,16.0
+JUN-2011,Punjab,Bhatinda,13.0
+JUN-2011,Punjab,Ludhiana,14.0
+JUL-2011,Bihar,Patna,27.0
+JUL-2011,Jammu Kashmir,Jammu,20.0
+JUL-2011,Punjab,Amritsar,30.0
+JUL-2011,Punjab,Bhatinda,20.0
+JUL-2011,Punjab,Ludhiana,30.0
+JUL-2011,Bihar,Patna,18.0
+JUL-2011,Bihar,Patna,16.0
+JUL-2011,Jammu Kashmir,Jammu,13.0
+JUL-2011,Punjab,Amritsar,16.0
+JUL-2011,Punjab,Bhatinda,13.0
+JUL-2011,Punjab,Ludhiana,14.0
+AUG-2011,Bihar,Patna,23.0
+AUG-2011,Jammu Kashmir,Jammu,20.0
+AUG-2011,Punjab,Amritsar,40.0
+AUG-2011,Punjab,Bhatinda,20.0
+AUG-2011,Punjab,Ludhiana,30.0
+AUG-2011,Bihar,Patna,18.5
+AUG-2011,Bihar,Patna,16.0
+AUG-2011,Jammu Kashmir,Jammu,13.0
+AUG-2011,Punjab,Amritsar,16.0
+AUG-2011,Punjab,Bhatinda,13.0
+AUG-2011,Punjab,Ludhiana,14.0
+SEP-2011,Bihar,Patna,20.0
+SEP-2011,Jammu Kashmir,Jammu,30.0
+SEP-2011,Punjab,Amritsar,20.0
+SEP-2011,Punjab,Ludhiana,30.0
+SEP-2011,Bihar,Patna,19.0
+SEP-2011,Bihar,Patna,17.0
+SEP-2011,Jammu Kashmir,Jammu,13.0
+SEP-2011,Punjab,Amritsar,16.0
+SEP-2011,Punjab,Ludhiana,14.0
+OCT-2011,Bihar,Patna,30.0
+OCT-2011,Jammu Kashmir,Jammu,30.0
+OCT-2011,Punjab,Amritsar,40.0
+OCT-2011,Punjab,Bhatinda,25.0
+OCT-2011,Punjab,Ludhiana,40.0
+OCT-2011,Bihar,Patna,18.0
+OCT-2011,Bihar,Patna,17.0
+OCT-2011,Jammu Kashmir,Jammu,13.0
+OCT-2011,Punjab,Amritsar,16.0
+OCT-2011,Punjab,Bhatinda,13.0
+OCT-2011,Punjab,Ludhiana,14.0
+NOV-2011,Bihar,Patna,28.0
+NOV-2011,Punjab,Amritsar,20.0
+NOV-2011,Punjab,Ludhiana,30.0
+NOV-2011,Bihar,Patna,18.0
+NOV-2011,Bihar,Patna,17.0
+NOV-2011,Punjab,Amritsar,16.0
+NOV-2011,Punjab,Ludhiana,14.0
+DEC-2011,Bihar,Patna,14.0
+DEC-2011,Jammu Kashmir,Jammu,20.0
+DEC-2011,Punjab,Amritsar,20.0
+DEC-2011,Punjab,Ludhiana,25.0
+DEC-2011,Bihar,Patna,18.0
+DEC-2011,Bihar,Patna,17.0
+DEC-2011,Jammu Kashmir,Jammu,13.0
+DEC-2011,Punjab,Amritsar,16.0
+DEC-2011,Punjab,Ludhiana,14.0
+JAN-2012,Bihar,Patna,10.0
+JAN-2012,Jammu Kashmir,Jammu,20.0
+JAN-2012,Punjab,Amritsar,20.0
+JAN-2012,Punjab,Ludhiana,20.0
+JAN-2012,Bihar,Patna,20.0
+JAN-2012,Bihar,Patna,19.0
+JAN-2012,Jammu Kashmir,Jammu,13.0
+JAN-2012,Punjab,Amritsar,15.0
+JAN-2012,Punjab,Ludhiana,14.0
+FEB-2012,Bihar,Patna,10.0
+FEB-2012,Jammu Kashmir,Jammu,15.0
+FEB-2012,Punjab,Amritsar,30.0
+FEB-2012,Punjab,Ludhiana,15.0
+FEB-2012,Bihar,Patna,19.0
+FEB-2012,Bihar,Patna,18.0
+FEB-2012,Jammu Kashmir,Jammu,13.0
+FEB-2012,Punjab,Amritsar,15.0
+FEB-2012,Punjab,Ludhiana,14.0
+MAR-2012,Bihar,Patna,14.0
+MAR-2012,Jammu Kashmir,Jammu,30.0
+MAR-2012,Punjab,Amritsar,30.0
+MAR-2012,Punjab,Bhatinda,20.0
+MAR-2012,Punjab,Ludhiana,15.0
+MAR-2012,Bihar,Patna,19.0
+MAR-2012,Bihar,Patna,17.0
+MAR-2012,Jammu Kashmir,Jammu,13.0
+MAR-2012,Punjab,Amritsar,15.0
+MAR-2012,Punjab,Bhatinda,13.0
+MAR-2012,Punjab,Ludhiana,14.0
+APR-2012,Bihar,Patna,8.0
+APR-2012,Jammu Kashmir,Jammu,35.0
+APR-2012,Punjab,Amritsar,25.0
+APR-2012,Punjab,Bhatinda,20.0
+APR-2012,Punjab,Ludhiana,20.0
+APR-2012,Bihar,Patna,19.0
+APR-2012,Bihar,Patna,17.0
+APR-2012,Jammu Kashmir,Jammu,13.5
+APR-2012,Punjab,Amritsar,15.0
+APR-2012,Punjab,Bhatinda,13.85
+APR-2012,Punjab,Ludhiana,14.0
+MAY-2012,Bihar,Patna,14.0
+MAY-2012,Punjab,Amritsar,10.0
+MAY-2012,Punjab,Ludhiana,15.0
+MAY-2012,Bihar,Patna,19.0
+MAY-2012,Bihar,Patna,17.0
+MAY-2012,Punjab,Amritsar,15.0
+MAY-2012,Punjab,Ludhiana,14.0
+JUN-2012,Bihar,Patna,22.0
+JUN-2012,Jammu Kashmir,Jammu,25.0
+JUN-2012,Punjab,Amritsar,15.0
+JUN-2012,Punjab,Ludhiana,15.0
+JUN-2012,Bihar,Patna,18.0
+JUN-2012,Bihar,Patna,15.0
+JUN-2012,Jammu Kashmir,Jammu,14.0
+JUN-2012,Punjab,Amritsar,14.0
+JUN-2012,Punjab,Ludhiana,14.0
+JUL-2012,Bihar,Patna,34.0
+JUL-2012,Jammu Kashmir,Jammu,35.0
+JUL-2012,Punjab,Amritsar,10.0
+JUL-2012,Punjab,Ludhiana,50.0
+JUL-2012,Bihar,Patna,18.0
+JUL-2012,Bihar,Patna,16.0
+JUL-2012,Jammu Kashmir,Jammu,14.0
+JUL-2012,Punjab,Amritsar,14.0
+JUL-2012,Punjab,Ludhiana,14.0
+AUG-2012,Bihar,Patna,30.0
+AUG-2012,Jammu Kashmir,Jammu,30.0
+AUG-2012,Punjab,Amritsar,19.0
+AUG-2012,Punjab,Ludhiana,40.0
+AUG-2012,Bihar,Patna,20.0
+AUG-2012,Bihar,Patna,17.0
+AUG-2012,Jammu Kashmir,Jammu,15.0
+AUG-2012,Punjab,Amritsar,14.0
+AUG-2012,Punjab,Ludhiana,14.0
+SEP-2012,Bihar,Patna,26.0
+SEP-2012,Jammu Kashmir,Jammu,25.0
+SEP-2012,Punjab,Amritsar,19.0
+SEP-2012,Punjab,Ludhiana,40.0
+SEP-2012,Bihar,Patna,22.0
+SEP-2012,Bihar,Patna,18.0
+SEP-2012,Jammu Kashmir,Jammu,16.0
+SEP-2012,Punjab,Amritsar,14.0
+SEP-2012,Punjab,Ludhiana,14.0
+OCT-2012,Bihar,Patna,22.0
+OCT-2012,Jammu Kashmir,Jammu,20.0
+OCT-2012,Punjab,Amritsar,19.0
+OCT-2012,Punjab,Ludhiana,35.0
+OCT-2012,Bihar,Patna,21.0
+OCT-2012,Bihar,Patna,19.0
+OCT-2012,Jammu Kashmir,Jammu,16.0
+OCT-2012,Punjab,Amritsar,15.0
+OCT-2012,Punjab,Ludhiana,14.0
+NOV-2012,Bihar,Patna,22.0
+NOV-2012,Punjab,Amritsar,19.0
+NOV-2012,Punjab,Ludhiana,30.0
+NOV-2012,Bihar,Patna,22.0
+NOV-2012,Bihar,Patna,20.0
+NOV-2012,Punjab,Amritsar,15.0
+NOV-2012,Punjab,Ludhiana,14.0
+DEC-2012,Bihar,Patna,14.0
+DEC-2012,Punjab,Amritsar,19.0
+DEC-2012,Punjab,Ludhiana,30.0
+DEC-2012,Bihar,Patna,22.0
+DEC-2012,Bihar,Patna,20.0
+DEC-2012,Punjab,Amritsar,15.0
+DEC-2012,Punjab,Ludhiana,14.0
+JAN-2013,Bihar,Patna,14.0
+JAN-2013,Jammu Kashmir,Jammu,20.0
+JAN-2013,Punjab,Ludhiana,25.0
+JAN-2013,Bihar,Patna,22.0
+JAN-2013,Bihar,Patna,19.0
+JAN-2013,Jammu Kashmir,Jammu,18.0
+JAN-2013,Punjab,Amritsar,18.0
+JAN-2013,Punjab,Ludhiana,14.0
+FEB-2013,Bihar,Patna,12.0
+FEB-2013,Punjab,Ludhiana,25.0
+FEB-2013,Bihar,Patna,22.0
+FEB-2013,Bihar,Patna,19.0
+FEB-2013,Punjab,Ludhiana,14.0
+MAR-2013,Bihar,Patna,12.0
+MAR-2013,Jammu Kashmir,Jammu,24.0
+MAR-2013,Punjab,Ludhiana,25.0
+MAR-2013,Bihar,Patna,22.0
+MAR-2013,Bihar,Patna,21.0
+MAR-2013,Jammu Kashmir,Jammu,18.0
+MAR-2013,Punjab,Amritsar,19.0
+MAR-2013,Punjab,Ludhiana,14.0
+APR-2013,Bihar,Patna,9.0
+APR-2013,Jammu Kashmir,Jammu,30.0
+APR-2013,Punjab,Ludhiana,25.0
+APR-2013,Bihar,Patna,21.0
+APR-2013,Bihar,Patna,20.0
+APR-2013,Jammu Kashmir,Jammu,18.0
+APR-2013,Punjab,Amritsar,19.0
+APR-2013,Punjab,Ludhiana,14.0
+MAY-2013,Bihar,Patna,18.0
+MAY-2013,Jammu Kashmir,Jammu,16.0
+MAY-2013,Punjab,Ludhiana,25.0
+MAY-2013,Bihar,Patna,20.0
+MAY-2013,Bihar,Patna,19.0
+MAY-2013,Jammu Kashmir,Jammu,18.0
+MAY-2013,Punjab,Amritsar,17.0
+MAY-2013,Punjab,Ludhiana,14.0
+JUN-2013,Bihar,Patna,45.0
+JUN-2013,Jammu Kashmir,Jammu,40.0
+JUN-2013,Punjab,Ludhiana,30.0
+JUN-2013,Bihar,Patna,21.0
+JUN-2013,Bihar,Patna,19.0
+JUN-2013,Jammu Kashmir,Jammu,18.0
+JUN-2013,Punjab,Amritsar,18.0
+JUN-2013,Punjab,Ludhiana,14.0
+JUL-2013,Bihar,Patna,52.0
+JUL-2013,Jammu Kashmir,Jammu,40.0
+JUL-2013,Punjab,Ludhiana,50.0
+JUL-2013,Bihar,Patna,19.0
+JUL-2013,Bihar,Patna,19.0
+JUL-2013,Jammu Kashmir,Jammu,18.0
+JUL-2013,Punjab,Amritsar,19.0
+JUL-2013,Punjab,Ludhiana,14.0
+AUG-2013,Bihar,Muzaffarpur,40.0
+AUG-2013,Bihar,Patna,40.0
+AUG-2013,Punjab,Ludhiana,50.0
+AUG-2013,Bihar,Muzaffarpur,19.0
+AUG-2013,Bihar,Patna,21.0
+AUG-2013,Bihar,Patna,19.0
+AUG-2013,Punjab,Amritsar,19.0
+AUG-2013,Punjab,Ludhiana,14.0
+SEP-2013,Bihar,Patna,34.0
+SEP-2013,Jammu Kashmir,Jammu,30.0
+SEP-2013,Punjab,Ludhiana,60.0
+SEP-2013,Bihar,Patna,21.0
+SEP-2013,Bihar,Patna,19.0
+SEP-2013,Jammu Kashmir,Jammu,18.0
+SEP-2013,Punjab,Amritsar,19.0
+SEP-2013,Punjab,Ludhiana,14.0
+OCT-2013,Bihar,Patna,32.0
+OCT-2013,Jammu Kashmir,Jammu,40.0
+OCT-2013,Punjab,Ludhiana,60.0
+OCT-2013,Bihar,Patna,20.0
+OCT-2013,Bihar,Patna,20.0
+OCT-2013,Jammu Kashmir,Jammu,18.0
+OCT-2013,Jammu Kashmir,Jammu,17.0
+OCT-2013,Punjab,Amritsar,17.0
+OCT-2013,Punjab,Ludhiana,14.0
+NOV-2013,Bihar,Patna,35.0
+NOV-2013,Jammu Kashmir,Jammu,40.0
+NOV-2013,Punjab,Amritsar,30.0
+NOV-2013,Punjab,Ludhiana,60.0
+NOV-2013,Bihar,Patna,21.0
+NOV-2013,Bihar,Patna,21.0
+NOV-2013,Jammu Kashmir,Jammu,18.0
+NOV-2013,Jammu Kashmir,Jammu,17.0
+NOV-2013,Punjab,Amritsar,20.0
+NOV-2013,Punjab,Ludhiana,14.0
+DEC-2013,Bihar,Patna,25.0
+DEC-2013,Jammu Kashmir,Jammu,25.0
+DEC-2013,Punjab,Ludhiana,40.0
+DEC-2013,Bihar,Patna,22.0
+DEC-2013,Bihar,Patna,21.0
+DEC-2013,Jammu Kashmir,Jammu,19.0
+DEC-2013,Jammu Kashmir,Jammu,17.0
+DEC-2013,Punjab,Amritsar,19.0
+DEC-2013,Punjab,Ludhiana,14.0
+JAN-2014,Bihar,Patna,13.0
+JAN-2014,Punjab,Amritsar,30.0
+JAN-2014,Punjab,Ludhiana,40.0
+JAN-2014,Bihar,Patna,22.0
+JAN-2014,Bihar,Patna,19.0
+JAN-2014,Punjab,Amritsar,20.0
+JAN-2014,Punjab,Ludhiana,14.0
+FEB-2014,Bihar,Patna,14.0
+FEB-2014,Bihar,Patna,21.0
+FEB-2014,Bihar,Patna,19.0
+MAR-2014,Bihar,Patna,18.0
+MAR-2014,Jammu Kashmir,Jammu,25.0
+MAR-2014,Bihar,Patna,22.0
+MAR-2014,Bihar,Patna,19.0
+MAR-2014,Jammu Kashmir,Jammu,17.0
+APR-2014,Bihar,Patna,18.0
+APR-2014,Jammu Kashmir,Jammu,25.0
+APR-2014,Bihar,Patna,22.0
+APR-2014,Bihar,Patna,20.0
+APR-2014,Jammu Kashmir,Jammu,17.0
+MAY-2014,Bihar,Patna,16.0
+MAY-2014,Jammu Kashmir,Jammu,15.0
+MAY-2014,Punjab,Amritsar,25.0
+MAY-2014,Bihar,Patna,20.0
+MAY-2014,Bihar,Patna,18.0
+MAY-2014,Jammu Kashmir,Jammu,17.0
+MAY-2014,Punjab,Amritsar,15.0
+JUN-2014,Bihar,Patna,25.0
+JUN-2014,Jammu Kashmir,Jammu,20.0
+JUN-2014,Bihar,Patna,20.0
+JUN-2014,Bihar,Patna,18.0
+JUN-2014,Jammu Kashmir,Jammu,17.0
+JUL-2014,Bihar,Patna,55.0
+JUL-2014,Jammu Kashmir,Jammu,30.0
+JUL-2014,Jammu Kashmir,Shrinagar,20.0
+JUL-2014,Bihar,Patna,20.0
+JUL-2014,Bihar,Patna,18.0
+JUL-2014,Jammu Kashmir,Jammu,17.0
+JUL-2014,Jammu Kashmir,Shrinagar,21.0
+AUG-2014,Bihar,Patna,65.0
+AUG-2014,Jammu Kashmir,Jammu,50.0
+AUG-2014,Bihar,Patna,20.0
+AUG-2014,Bihar,Patna,18.0
+AUG-2014,Jammu Kashmir,Jammu,17.0
+SEP-2014,Bihar,Patna,42.0
+SEP-2014,Jammu Kashmir,Jammu,50.0
+SEP-2014,Bihar,Patna,20.0
+SEP-2014,Bihar,Patna,18.0
+SEP-2014,Jammu Kashmir,Jammu,17.0
+OCT-2014,Bihar,Patna,41.0
+OCT-2014,Jammu Kashmir,Jammu,30.0
+OCT-2014,Bihar,Patna,21.0
+OCT-2014,Bihar,Patna,18.0
+OCT-2014,Jammu Kashmir,Jammu,18.0
+NOV-2014,Bihar,Patna,25.0
+NOV-2014,Bihar,Patna,22.0
+NOV-2014,Bihar,Patna,19.0
+DEC-2014,Bihar,Patna,22.0
+DEC-2014,Jammu Kashmir,Jammu,30.0
+DEC-2014,Bihar,Patna,21.0
+DEC-2014,Bihar,Patna,19.0
+DEC-2014,Jammu Kashmir,Jammu,18.0
+JAN-2015,Bihar,Patna,15.0
+JAN-2015,Jammu Kashmir,Jammu,30.0
+JAN-2015,Bihar,Patna,22.0
+JAN-2015,Bihar,Patna,20.0
+JAN-2015,Jammu Kashmir,Jammu,18.0
+FEB-2015,Bihar,Patna,12.0
+FEB-2015,Bihar,Patna,22.0
+FEB-2015,Bihar,Patna,21.0
+MAR-2015,Bihar,Patna,15.0
+MAR-2015,Jammu Kashmir,Jammu,30.0
+MAR-2015,Bihar,Patna,21.0
+MAR-2015,Bihar,Patna,21.0
+MAR-2015,Jammu Kashmir,Jammu,18.0
+APR-2015,Bihar,Patna,15.0
+APR-2015,Jammu Kashmir,Jammu,40.0
+APR-2015,Bihar,Patna,23.0
+APR-2015,Bihar,Patna,22.0
+APR-2015,Jammu Kashmir,Jammu,18.0
+MAY-2015,Bihar,Patna,26.0
+MAY-2015,Jammu Kashmir,Jammu,25.0
+MAY-2015,Bihar,Patna,23.0
+MAY-2015,Bihar,Patna,22.0
+MAY-2015,Jammu Kashmir,Jammu,17.0
+JUN-2015,Bihar,Patna,30.0
+JUN-2015,Jammu Kashmir,Jammu,30.0
+JUN-2015,Bihar,Patna,21.0
+JUN-2015,Bihar,Patna,21.0
+JUN-2015,Jammu Kashmir,Jammu,17.0
+JUL-2015,Bihar,Patna,36.0
+JUL-2015,Jammu Kashmir,Jammu,30.0
+JUL-2015,Bihar,Patna,21.0
+JUL-2015,Bihar,Patna,20.0
+JUL-2015,Jammu Kashmir,Jammu,17.0
+AUG-2015,Bihar,Patna,34.0
+AUG-2015,Jammu Kashmir,Jammu,40.0
+AUG-2015,Bihar,Patna,23.0
+AUG-2015,Bihar,Patna,22.0
+AUG-2015,Jammu Kashmir,Jammu,17.0
+SEP-2015,Bihar,Patna,28.0
+SEP-2015,Bihar,Patna,24.0
+SEP-2015,Bihar,Patna,22.0
+OCT-2015,Bihar,Patna,35.0
+OCT-2015,Jammu Kashmir,Jammu,40.0
+OCT-2015,Bihar,Patna,25.0
+OCT-2015,Bihar,Patna,23.0
+OCT-2015,Jammu Kashmir,Jammu,17.0
+NOV-2015,Bihar,Patna,43.0
+NOV-2015,Jammu Kashmir,Jammu,40.0
+NOV-2015,Bihar,Patna,26.0
+NOV-2015,Bihar,Patna,24.0
+NOV-2015,Jammu Kashmir,Jammu,18.0
+DEC-2015,Bihar,Patna,24.0
+DEC-2015,Jammu Kashmir,Jammu,30.0
+DEC-2015,Bihar,Patna,25.0
+DEC-2015,Bihar,Patna,24.0
+DEC-2015,Jammu Kashmir,Jammu,18.0
+JAN-2016,Bihar,Patna,18.0
+JAN-2016,Jammu Kashmir,Jammu,40.0
+JAN-2016,Jammu Kashmir,Shrinagar,20.0
+JAN-2016,Bihar,Patna,25.0
+JAN-2016,Bihar,Patna,24.0
+JAN-2016,Jammu Kashmir,Jammu,18.0
+JAN-2016,Jammu Kashmir,Shrinagar,15.5
+FEB-2016,Bihar,Patna,16.0
+FEB-2016,Jammu Kashmir,Jammu,25.0
+FEB-2016,Punjab,Amritsar,30.0
+FEB-2016,Bihar,Patna,24.0
+FEB-2016,Bihar,Patna,23.0
+FEB-2016,Jammu Kashmir,Jammu,18.0
+FEB-2016,Punjab,Amritsar,17.0
+MAR-2016,Bihar,Patna,16.0
+MAR-2016,Punjab,Amritsar,30.0
+MAR-2016,Bihar,Patna,24.0
+MAR-2016,Bihar,Patna,24.0
+MAR-2016,Punjab,Amritsar,17.0
+APR-2016,Bihar,Patna,16.0
+APR-2016,Jammu Kashmir,Jammu,20.0
+APR-2016,Bihar,Patna,25.0
+APR-2016,Bihar,Patna,24.0
+APR-2016,Jammu Kashmir,Jammu,18.0
+MAY-2016,Bihar,Patna,30.0
+MAY-2016,Jammu Kashmir,Jammu,20.0
+MAY-2016,Bihar,Patna,24.0
+MAY-2016,Bihar,Patna,23.0
+MAY-2016,Jammu Kashmir,Jammu,18.0
+JUN-2016,Bihar,Patna,30.0
+JUN-2016,Jammu Kashmir,Jammu,40.0
+JUN-2016,Punjab,Amritsar,40.0
+JUN-2016,Bihar,Patna,24.0
+JUN-2016,Bihar,Patna,23.0
+JUN-2016,Jammu Kashmir,Jammu,18.0
+JUN-2016,Punjab,Amritsar,16.0
+JUL-2016,Bihar,Patna,40.0
+JUL-2016,Jammu Kashmir,Jammu,60.0
+JUL-2016,Bihar,Patna,24.0
+JUL-2016,Bihar,Patna,23.0
+JUL-2016,Jammu Kashmir,Jammu,18.0
+AUG-2016,Bihar,Patna,30.0
+AUG-2016,Jammu Kashmir,Jammu,30.0
+AUG-2016,Bihar,Patna,24.0
+AUG-2016,Bihar,Patna,23.0
+AUG-2016,Jammu Kashmir,Jammu,18.0
+SEP-2016,Bihar,Patna,30.0
+SEP-2016,Jammu Kashmir,Jammu,25.0
+SEP-2016,Bihar,Patna,24.0
+SEP-2016,Bihar,Patna,23.0
+SEP-2016,Jammu Kashmir,Jammu,19.0
+OCT-2016,Bihar,Patna,30.0
+OCT-2016,Jammu Kashmir,Jammu,20.0
+OCT-2016,Punjab,Amritsar,30.0
+OCT-2016,Bihar,Patna,24.0
+OCT-2016,Bihar,Patna,23.0
+OCT-2016,Jammu Kashmir,Jammu,19.0
+OCT-2016,Punjab,Amritsar,17.0
+NOV-2016,Bihar,Patna,30.0
+NOV-2016,Jammu Kashmir,Jammu,25.0
+NOV-2016,Bihar,Patna,24.0
+NOV-2016,Bihar,Patna,23.0
+NOV-2016,Jammu Kashmir,Jammu,22.0
+DEC-2016,Bihar,Patna,25.0
+DEC-2016,Jammu Kashmir,Jammu,20.0
+DEC-2016,Bihar,Patna,27.0
+DEC-2016,Bihar,Patna,26.0
+DEC-2016,Jammu Kashmir,Jammu,22.0
+JAN-2017,Bihar,Patna,10.0
+JAN-2017,Jammu Kashmir,Jammu,20.0
+JAN-2017,Punjab,Amritsar,15.0
+JAN-2017,Bihar,Patna,27.0
+JAN-2017,Bihar,Patna,26.0
+JAN-2017,Jammu Kashmir,Jammu,22.0
+JAN-2017,Punjab,Amritsar,25.0
+FEB-2017,Bihar,Patna,10.0
+FEB-2017,Jammu Kashmir,Jammu,20.0
+FEB-2017,Bihar,Patna,27.0
+FEB-2017,Bihar,Patna,26.0
+FEB-2017,Jammu Kashmir,Jammu,22.0
+MAR-2017,Bihar,Muzaffarpur,12.0
+MAR-2017,Bihar,Patna,12.0
+MAR-2017,Jammu Kashmir,Jammu,20.0
+MAR-2017,Punjab,Amritsar,15.0
+MAR-2017,Bihar,Muzaffarpur,22.0
+MAR-2017,Bihar,Muzaffarpur,20.0
+MAR-2017,Bihar,Patna,26.0
+MAR-2017,Bihar,Patna,25.0
+MAR-2017,Jammu Kashmir,Jammu,22.0
+MAR-2017,Punjab,Amritsar,25.0
+APR-2017,Bihar,Muzaffarpur,10.0
+APR-2017,Bihar,Patna,10.0
+APR-2017,Jammu Kashmir,Jammu,20.0
+APR-2017,Bihar,Muzaffarpur,18.0
+APR-2017,Bihar,Muzaffarpur,17.0
+APR-2017,Bihar,Patna,26.0
+APR-2017,Bihar,Patna,25.0
+APR-2017,Jammu Kashmir,Jammu,22.0
+MAY-2017,Bihar,Muzaffarpur,14.0
+MAY-2017,Bihar,Patna,12.0
+MAY-2017,Jammu Kashmir,Jammu,20.0
+MAY-2017,Bihar,Muzaffarpur,18.0
+MAY-2017,Bihar,Muzaffarpur,17.0
+MAY-2017,Bihar,Patna,25.0
+MAY-2017,Bihar,Patna,24.0
+MAY-2017,Jammu Kashmir,Jammu,20.0
+JUN-2017,Bihar,Patna,60.0
+JUN-2017,Jammu Kashmir,Jammu,50.0
+JUN-2017,Bihar,Patna,23.0
+JUN-2017,Bihar,Patna,22.0
+JUN-2017,Jammu Kashmir,Jammu,20.0
+JUL-2017,Bihar,Patna,84.0
+JUL-2017,Jammu Kashmir,Jammu,60.0
+JUL-2017,Bihar,Patna,23.0
+JUL-2017,Bihar,Patna,22.0
+JUL-2017,Jammu Kashmir,Jammu,20.0
+AUG-2017,Bihar,Patna,50.0
+AUG-2017,Jammu Kashmir,Jammu,70.0
+AUG-2017,Bihar,Patna,23.0
+AUG-2017,Bihar,Patna,22.0
+AUG-2017,Jammu Kashmir,Jammu,20.0
+SEP-2017,Bihar,Patna,32.0
+SEP-2017,Jammu Kashmir,Jammu,30.0
+SEP-2017,Punjab,Amritsar,25.0
+SEP-2017,Bihar,Patna,24.0
+SEP-2017,Bihar,Patna,23.0
+SEP-2017,Jammu Kashmir,Jammu,20.0
+SEP-2017,Punjab,Amritsar,22.0
+OCT-2017,Bihar,Patna,45.0
+OCT-2017,Jammu Kashmir,Jammu,40.0
+OCT-2017,Punjab,Amritsar,40.0
+OCT-2017,Bihar,Patna,24.0
+OCT-2017,Bihar,Patna,23.0
+OCT-2017,Jammu Kashmir,Jammu,20.0
+OCT-2017,Punjab,Amritsar,22.0
+NOV-2017,Bihar,Gaya,52.0
+NOV-2017,Bihar,Patna,54.0
+NOV-2017,Jammu Kashmir,Jammu,50.0
+NOV-2017,Punjab,Amritsar,50.0
+NOV-2017,Bihar,Gaya,22.0
+NOV-2017,Bihar,Gaya,20.0
+NOV-2017,Bihar,Patna,26.0
+NOV-2017,Bihar,Patna,23.0
+NOV-2017,Jammu Kashmir,Jammu,20.0
+NOV-2017,Punjab,Amritsar,22.0
+DEC-2017,Bihar,Gaya,24.0
+DEC-2017,Bihar,Patna,22.0
+DEC-2017,Jammu Kashmir,Jammu,20.0
+DEC-2017,Punjab,Amritsar,30.0
+DEC-2017,Bihar,Gaya,22.0
+DEC-2017,Bihar,Gaya,21.0
+DEC-2017,Bihar,Patna,25.0
+DEC-2017,Bihar,Patna,23.0
+DEC-2017,Jammu Kashmir,Jammu,20.0
+DEC-2017,Punjab,Amritsar,21.0
+JAN-2018,Bihar,Gaya,20.0
+JAN-2018,Bihar,Patna,18.0
+JAN-2018,Jammu Kashmir,Jammu,20.0
+JAN-2018,Punjab,Amritsar,20.0
+JAN-2018,Bihar,Gaya,22.0
+JAN-2018,Bihar,Gaya,21.0
+JAN-2018,Bihar,Patna,24.0
+JAN-2018,Bihar,Patna,23.0
+JAN-2018,Jammu Kashmir,Jammu,20.0
+JAN-2018,Punjab,Amritsar,21.0
+FEB-2018,Bihar,Gaya,12.0
+FEB-2018,Bihar,Patna,12.0
+FEB-2018,Jammu Kashmir,Jammu,20.0
+FEB-2018,Punjab,Amritsar,20.0
+FEB-2018,Bihar,Gaya,22.0
+FEB-2018,Bihar,Gaya,21.0
+FEB-2018,Bihar,Patna,24.0
+FEB-2018,Bihar,Patna,23.0
+FEB-2018,Jammu Kashmir,Jammu,20.0
+FEB-2018,Punjab,Amritsar,21.0
+MAR-2018,Bihar,Gaya,22.0
+MAR-2018,Bihar,Patna,20.0
+MAR-2018,Jammu Kashmir,Jammu,20.0
+MAR-2018,Punjab,Amritsar,20.0
+MAR-2018,Bihar,Gaya,22.0
+MAR-2018,Bihar,Gaya,21.0
+MAR-2018,Bihar,Patna,24.0
+MAR-2018,Bihar,Patna,23.0
+MAR-2018,Jammu Kashmir,Jammu,20.0
+MAR-2018,Punjab,Amritsar,21.0
+APR-2018,Bihar,Gaya,10.0
+APR-2018,Bihar,Patna,16.0
+APR-2018,Jammu Kashmir,Jammu,20.0
+APR-2018,Punjab,Amritsar,20.0
+APR-2018,Bihar,Gaya,22.0
+APR-2018,Bihar,Gaya,21.0
+APR-2018,Bihar,Patna,24.0
+APR-2018,Bihar,Patna,23.0
+APR-2018,Jammu Kashmir,Jammu,20.0
+APR-2018,Punjab,Amritsar,21.0
+MAY-2018,Bihar,Gaya,10.0
+MAY-2018,Bihar,Patna,12.0
+MAY-2018,Jammu Kashmir,Jammu,20.0
+MAY-2018,Punjab,Amritsar,10.0
+MAY-2018,Bihar,Gaya,24.0
+MAY-2018,Bihar,Gaya,22.0
+MAY-2018,Bihar,Patna,25.0
+MAY-2018,Bihar,Patna,24.0
+MAY-2018,Jammu Kashmir,Jammu,20.0
+MAY-2018,Punjab,Amritsar,20.0
+JUN-2018,Bihar,Gaya,28.0
+JUN-2018,Bihar,Patna,28.0
+JUN-2018,Jammu Kashmir,Jammu,30.0
+JUN-2018,Bihar,Gaya,24.0
+JUN-2018,Bihar,Gaya,22.0
+JUN-2018,Bihar,Patna,25.0
+JUN-2018,Bihar,Patna,24.0
+JUN-2018,Jammu Kashmir,Jammu,20.0
+JUL-2018,Bihar,Gaya,40.0
+JUL-2018,Bihar,Patna,40.0
+JUL-2018,Jammu Kashmir,Jammu,30.0
+JUL-2018,Bihar,Gaya,24.0
+JUL-2018,Bihar,Gaya,22.0
+JUL-2018,Bihar,Patna,25.0
+JUL-2018,Bihar,Patna,24.0
+JUL-2018,Jammu Kashmir,Jammu,20.0
+AUG-2018,Bihar,Gaya,30.0
+AUG-2018,Bihar,Patna,30.0
+AUG-2018,Jammu Kashmir,Jammu,30.0
+AUG-2018,Bihar,Gaya,24.0
+AUG-2018,Bihar,Gaya,22.0
+AUG-2018,Bihar,Patna,26.0
+AUG-2018,Bihar,Patna,24.0
+AUG-2018,Jammu Kashmir,Jammu,21.0
+SEP-2018,Bihar,Gaya,20.0
+SEP-2018,Bihar,Patna,22.0
+SEP-2018,Jammu Kashmir,Jammu,30.0
+SEP-2018,Bihar,Gaya,24.0
+SEP-2018,Bihar,Gaya,22.0
+SEP-2018,Bihar,Patna,26.0
+SEP-2018,Bihar,Patna,24.0
+SEP-2018,Jammu Kashmir,Jammu,22.0
+OCT-2018,Bihar,Gaya,25.0
+OCT-2018,Bihar,Patna,25.0
+OCT-2018,Jammu Kashmir,Jammu,25.0
+OCT-2018,Bihar,Gaya,24.0
+OCT-2018,Bihar,Gaya,22.0
+OCT-2018,Bihar,Patna,26.0
+OCT-2018,Bihar,Patna,24.0
+OCT-2018,Jammu Kashmir,Jammu,22.0
+NOV-2018,Bihar,Gaya,25.0
+NOV-2018,Bihar,Patna,26.0
+NOV-2018,Jammu Kashmir,Jammu,25.0
+NOV-2018,Bihar,Gaya,24.0
+NOV-2018,Bihar,Gaya,22.0
+NOV-2018,Bihar,Patna,26.0
+NOV-2018,Bihar,Patna,24.0
+NOV-2018,Jammu Kashmir,Jammu,22.0
+DEC-2018,Bihar,Gaya,22.0
+DEC-2018,Bihar,Patna,20.0
+DEC-2018,Jammu Kashmir,Jammu,25.0
+DEC-2018,Punjab,Amritsar,30.0
+DEC-2018,Bihar,Gaya,24.0
+DEC-2018,Bihar,Gaya,22.0
+DEC-2018,Bihar,Patna,26.0
+DEC-2018,Bihar,Patna,24.0
+DEC-2018,Jammu Kashmir,Jammu,22.0
+DEC-2018,Punjab,Amritsar,19.0
+JAN-2019,Bihar,Gaya,18.0
+JAN-2019,Bihar,Patna,16.0
+JAN-2019,Jammu Kashmir,Jammu,30.0
+JAN-2019,Punjab,Amritsar,30.0
+JAN-2019,Bihar,Gaya,24.0
+JAN-2019,Bihar,Gaya,22.0
+JAN-2019,Bihar,Patna,26.0
+JAN-2019,Bihar,Patna,24.0
+JAN-2019,Jammu Kashmir,Jammu,22.0
+JAN-2019,Punjab,Amritsar,19.0
+FEB-2019,Bihar,Gaya,10.0
+FEB-2019,Bihar,Patna,10.0
+FEB-2019,Jammu Kashmir,Jammu,40.0
+FEB-2019,Punjab,Amritsar,30.0
+FEB-2019,Bihar,Gaya,26.0
+FEB-2019,Bihar,Gaya,24.0
+FEB-2019,Bihar,Patna,28.0
+FEB-2019,Bihar,Patna,26.0
+FEB-2019,Jammu Kashmir,Jammu,22.0
+FEB-2019,Punjab,Amritsar,19.0
+MAR-2019,Bihar,Gaya,18.0
+MAR-2019,Bihar,Patna,20.0
+MAR-2019,Jammu Kashmir,Jammu,40.0
+MAR-2019,Bihar,Gaya,26.0
+MAR-2019,Bihar,Gaya,24.0
+MAR-2019,Bihar,Patna,28.0
+MAR-2019,Bihar,Patna,26.0
+MAR-2019,Jammu Kashmir,Jammu,22.0
+APR-2019,Bihar,Gaya,24.0
+APR-2019,Bihar,Patna,18.0
+APR-2019,Jammu Kashmir,Jammu,30.0
+APR-2019,Punjab,Amritsar,30.0
+APR-2019,Bihar,Gaya,26.0
+APR-2019,Bihar,Gaya,24.0
+APR-2019,Bihar,Patna,28.0
+APR-2019,Bihar,Patna,26.0
+APR-2019,Jammu Kashmir,Jammu,22.0
+APR-2019,Punjab,Amritsar,19.0
+MAY-2019,Bihar,Gaya,48.0
+MAY-2019,Bihar,Patna,45.0
+MAY-2019,Jammu Kashmir,Jammu,30.0
+MAY-2019,Punjab,Amritsar,25.0
+MAY-2019,Bihar,Gaya,26.0
+MAY-2019,Bihar,Gaya,24.0
+MAY-2019,Bihar,Patna,28.0
+MAY-2019,Bihar,Patna,26.0
+MAY-2019,Jammu Kashmir,Jammu,22.0
+MAY-2019,Punjab,Amritsar,19.0
+JUN-2019,Bihar,Gaya,40.0
+JUN-2019,Bihar,Patna,40.0
+JUN-2019,Jammu Kashmir,Jammu,30.0
+JUN-2019,Punjab,Amritsar,20.0
+JUN-2019,Bihar,Gaya,26.0
+JUN-2019,Bihar,Gaya,24.0
+JUN-2019,Bihar,Patna,28.0
+JUN-2019,Bihar,Patna,26.0
+JUN-2019,Jammu Kashmir,Jammu,22.0
+JUN-2019,Punjab,Amritsar,19.0
+JUL-2019,Bihar,Gaya,44.0
+JUL-2019,Bihar,Patna,40.0
+JUL-2019,Jammu Kashmir,Jammu,60.0
+JUL-2019,Punjab,Amritsar,60.0
+JUL-2019,Bihar,Gaya,26.0
+JUL-2019,Bihar,Gaya,24.0
+JUL-2019,Bihar,Patna,28.0
+JUL-2019,Bihar,Patna,26.0
+JUL-2019,Jammu Kashmir,Jammu,23.0
+JUL-2019,Punjab,Amritsar,22.0
+AUG-2019,Bihar,Gaya,45.0
+AUG-2019,Bihar,Patna,45.0
+AUG-2019,Jammu Kashmir,Jammu,40.0
+AUG-2019,Bihar,Gaya,26.0
+AUG-2019,Bihar,Gaya,24.0
+AUG-2019,Bihar,Patna,28.0
+AUG-2019,Bihar,Patna,26.0
+AUG-2019,Jammu Kashmir,Jammu,24.0
+SEP-2019,Bihar,Gaya,40.0
+SEP-2019,Bihar,Patna,40.0
+SEP-2019,Jammu Kashmir,Jammu,50.0
+SEP-2019,Punjab,Amritsar,60.0
+SEP-2019,Bihar,Gaya,26.0
+SEP-2019,Bihar,Gaya,24.0
+SEP-2019,Bihar,Patna,28.0
+SEP-2019,Bihar,Patna,26.0
+SEP-2019,Jammu Kashmir,Jammu,24.0
+SEP-2019,Punjab,Amritsar,22.0
+OCT-2019,Bihar,Gaya,50.0
+OCT-2019,Bihar,Patna,46.0
+OCT-2019,Jammu Kashmir,Jammu,50.0
+OCT-2019,Punjab,Amritsar,55.0
+OCT-2019,Bihar,Gaya,26.0
+OCT-2019,Bihar,Gaya,25.0
+OCT-2019,Bihar,Patna,28.0
+OCT-2019,Bihar,Patna,26.0
+OCT-2019,Jammu Kashmir,Jammu,25.0
+OCT-2019,Punjab,Amritsar,22.0
+NOV-2019,Bihar,Gaya,35.0
+NOV-2019,Bihar,Patna,30.0
+NOV-2019,Jammu Kashmir,Jammu,30.0
+NOV-2019,Punjab,Amritsar,50.0
+NOV-2019,Bihar,Gaya,26.0
+NOV-2019,Bihar,Gaya,25.0
+NOV-2019,Bihar,Patna,28.0
+NOV-2019,Bihar,Patna,26.0
+NOV-2019,Jammu Kashmir,Jammu,25.0
+NOV-2019,Punjab,Amritsar,22.0
+DEC-2019,Bihar,Gaya,25.0
+DEC-2019,Bihar,Patna,24.0
+DEC-2019,Jammu Kashmir,Jammu,20.0
+DEC-2019,Punjab,Amritsar,30.0
+DEC-2019,Bihar,Gaya,26.0
+DEC-2019,Bihar,Gaya,25.0
+DEC-2019,Bihar,Patna,28.0
+DEC-2019,Bihar,Patna,26.0
+DEC-2019,Jammu Kashmir,Jammu,25.0
+DEC-2019,Punjab,Amritsar,22.0
+JAN-2020,Bihar,Gaya,18.0
+JAN-2020,Bihar,Patna,22.0
+JAN-2020,Jammu Kashmir,Jammu,25.0
+JAN-2020,Bihar,Gaya,26.0
+JAN-2020,Bihar,Gaya,25.0
+JAN-2020,Bihar,Patna,28.0
+JAN-2020,Bihar,Patna,26.0
+JAN-2020,Jammu Kashmir,Jammu,24.0
+FEB-2020,Bihar,Gaya,22.0
+FEB-2020,Bihar,Patna,24.0
+FEB-2020,Jammu Kashmir,Jammu,20.0
+FEB-2020,Punjab,Amritsar,30.0
+FEB-2020,Bihar,Gaya,26.0
+FEB-2020,Bihar,Gaya,25.0
+FEB-2020,Bihar,Patna,28.0
+FEB-2020,Bihar,Patna,26.0
+FEB-2020,Jammu Kashmir,Jammu,24.0
+FEB-2020,Punjab,Amritsar,22.0
+MAR-2020,Bihar,Gaya,20.0
+MAR-2020,Bihar,Patna,22.0
+MAR-2020,Jammu Kashmir,Jammu,25.0
+MAR-2020,Bihar,Gaya,28.0
+MAR-2020,Bihar,Gaya,25.0
+MAR-2020,Bihar,Patna,28.0
+MAR-2020,Bihar,Patna,26.0
+MAR-2020,Jammu Kashmir,Jammu,25.0
+APR-2020,Bihar,Gaya,20.0
+APR-2020,Bihar,Patna,20.0
+APR-2020,Bihar,Gaya,30.0
+APR-2020,Bihar,Gaya,26.0
+APR-2020,Bihar,Patna,28.0
+APR-2020,Bihar,Patna,26.0
+MAY-2020,Bihar,Gaya,12.0
+MAY-2020,Bihar,Patna,16.0
+MAY-2020,Punjab,Amritsar,20.0
+MAY-2020,Bihar,Gaya,28.0
+MAY-2020,Bihar,Gaya,25.0
+MAY-2020,Bihar,Patna,28.0
+MAY-2020,Bihar,Patna,26.0
+MAY-2020,Punjab,Amritsar,22.0
+JUN-2020,Bihar,Gaya,48.0
+JUN-2020,Bihar,Patna,50.0
+JUN-2020,Jammu Kashmir,Jammu,30.0
+JUN-2020,Punjab,Amritsar,40.0
+JUN-2020,Bihar,Gaya,28.0
+JUN-2020,Bihar,Gaya,25.0
+JUN-2020,Bihar,Patna,28.0
+JUN-2020,Bihar,Patna,26.0
+JUN-2020,Jammu Kashmir,Jammu,23.0
+JUN-2020,Jammu Kashmir,Jammu,23.0
+JUN-2020,Punjab,Amritsar,23.0
+JUL-2020,Bihar,Gaya,60.0
+JUL-2020,Bihar,Patna,50.0
+JUL-2020,Jammu Kashmir,Jammu,50.0
+JUL-2020,Punjab,Amritsar,60.0
+JUL-2020,Bihar,Gaya,26.0
+JUL-2020,Bihar,Gaya,24.0
+JUL-2020,Bihar,Patna,27.0
+JUL-2020,Bihar,Patna,26.0
+JUL-2020,Jammu Kashmir,Jammu,23.0
+JUL-2020,Jammu Kashmir,Jammu,23.0
+JUL-2020,Punjab,Amritsar,22.0
+AUG-2020,Bihar,Gaya,56.0
+AUG-2020,Bihar,Patna,55.0
+AUG-2020,Jammu Kashmir,Jammu,60.0
+AUG-2020,Punjab,Amritsar,50.0
+AUG-2020,Bihar,Gaya,26.0
+AUG-2020,Bihar,Gaya,24.0
+AUG-2020,Bihar,Patna,27.0
+AUG-2020,Bihar,Patna,26.0
+AUG-2020,Jammu Kashmir,Jammu,23.0
+AUG-2020,Jammu Kashmir,Jammu,23.0
+AUG-2020,Punjab,Amritsar,22.0
+SEP-2020,Bihar,Gaya,56.0
+SEP-2020,Bihar,Patna,55.0
+SEP-2020,Jammu Kashmir,Jammu,60.0
+SEP-2020,Punjab,Amritsar,60.0
+SEP-2020,Bihar,Gaya,25.0
+SEP-2020,Bihar,Gaya,24.0
+SEP-2020,Bihar,Patna,26.0
+SEP-2020,Bihar,Patna,25.0
+SEP-2020,Jammu Kashmir,Jammu,23.0
+SEP-2020,Jammu Kashmir,Jammu,23.0
+SEP-2020,Punjab,Amritsar,23.0
+OCT-2020,Bihar,Gaya,45.0
+OCT-2020,Bihar,Patna,50.0
+OCT-2020,Jammu Kashmir,Jammu,50.0
+OCT-2020,Bihar,Gaya,25.0
+OCT-2020,Bihar,Gaya,24.0
+OCT-2020,Bihar,Patna,26.0
+OCT-2020,Bihar,Patna,25.0
+OCT-2020,Jammu Kashmir,Jammu,22.0
+OCT-2020,Jammu Kashmir,Jammu,22.0
+NOV-2020,Bihar,Gaya,40.0
+NOV-2020,Bihar,Patna,46.0
+NOV-2020,Jammu Kashmir,Jammu,40.0
+NOV-2020,Punjab,Amritsar,60.0
+NOV-2020,Bihar,Gaya,25.0
+NOV-2020,Bihar,Gaya,23.0
+NOV-2020,Bihar,Patna,26.0
+NOV-2020,Bihar,Patna,25.0
+NOV-2020,Jammu Kashmir,Jammu,22.0
+NOV-2020,Jammu Kashmir,Jammu,22.0
+NOV-2020,Punjab,Amritsar,25.0
+DEC-2020,Bihar,Gaya,36.0
+DEC-2020,Bihar,Patna,36.0
+DEC-2020,Jammu Kashmir,Jammu,30.0
+DEC-2020,Punjab,Amritsar,30.0
+DEC-2020,Bihar,Gaya,23.0
+DEC-2020,Bihar,Gaya,21.0
+DEC-2020,Bihar,Patna,25.0
+DEC-2020,Bihar,Patna,24.0
+DEC-2020,Jammu Kashmir,Jammu,22.0
+DEC-2020,Jammu Kashmir,Jammu,22.0
+DEC-2020,Punjab,Amritsar,25.0
+JAN-2021,Bihar,Gaya,12.0
+JAN-2021,Bihar,Patna,16.0
+JAN-2021,Jammu Kashmir,Jammu,25.0
+JAN-2021,Punjab,Amritsar,30.0
+JAN-2021,Bihar,Gaya,23.0
+JAN-2021,Bihar,Gaya,21.0
+JAN-2021,Bihar,Patna,25.0
+JAN-2021,Bihar,Patna,23.0
+JAN-2021,Jammu Kashmir,Jammu,22.0
+JAN-2021,Jammu Kashmir,Jammu,22.0
+JAN-2021,Punjab,Amritsar,25.0
+FEB-2021,Bihar,Gaya,10.0
+FEB-2021,Bihar,Patna,12.0
+FEB-2021,Jammu Kashmir,Jammu,30.0
+FEB-2021,Punjab,Amritsar,30.0
+FEB-2021,Bihar,Gaya,23.0
+FEB-2021,Bihar,Gaya,21.0
+FEB-2021,Bihar,Patna,25.0
+FEB-2021,Bihar,Patna,23.0
+FEB-2021,Jammu Kashmir,Jammu,22.0
+FEB-2021,Jammu Kashmir,Jammu,22.0
+FEB-2021,Punjab,Amritsar,25.0
+MAR-2021,Bihar,Gaya,10.0
+MAR-2021,Bihar,Patna,10.0
+MAR-2021,Jammu Kashmir,Jammu,25.0
+MAR-2021,Bihar,Gaya,23.0
+MAR-2021,Bihar,Gaya,21.0
+MAR-2021,Bihar,Patna,25.0
+MAR-2021,Bihar,Patna,23.0
+MAR-2021,Jammu Kashmir,Jammu,22.0
+MAR-2021,Jammu Kashmir,Jammu,22.0
