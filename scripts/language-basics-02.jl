@@ -102,7 +102,11 @@ println("Using = for in with a range:")
 for i = 1:5
     println(i)
 end
+
 println("Using nested for loop in a single line:") # benefit only one end
 for i ∈ 1:5, j ∈ 1:5
     println("i = ", i, ", j = ", j)
 end
+
+# Declaring Global Variable
+const e = exp(1)
