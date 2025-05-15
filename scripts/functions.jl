@@ -1,1 +1,88 @@
 # Functions and Metaprogramming
+# Splatting and Slurping
+# Splatting is a way to unpack elements from a collection into function arguments.
+# Slurping is the opposite, where you collect multiple arguments into a single collection.
+
+# Splatting
+function add(x, y)
+    return x + y
+end
+function add_all(args...)
+    return sum(args)
+end
+
+# Example of splatting
+numbers = [1, 2, 3, 4, 5]
+result = add_all(numbers...)  # Unpack the array into the function
+println("Sum of numbers: ", result)
+# Slurping
+function collect_args(args...)
+    return args
+end
+# Example of slurping
+args = collect_args(1, 2, 3, 4, 5)  # Collect arguments into a tuple
+println("Collected arguments: ", args)
+
+
+
+# Keyword Arguments
+function greet(name; greeting="Hello")
+    return "$greeting, $(name)!"
+end
+# Example of keyword arguments
+greeting_message = greet("Alice", greeting="Hi")  # Specify a keyword argument
+println(greeting_message)
+# Example of default keyword arguments
+default_greeting = greet("Bob")  # Use the default keyword argument
+println(default_greeting)
+
+# Destructuring
+function process_data((x, y, z))
+    return x + y + z
+end
+# Example of destructuring
+data = (1, 2, 3)
+result = process_data(data)  # Unpack the tuple into the function
+println("Processed data: ", result)
+# Example of destructuring with named fields
+struct Point
+    x::Float64
+    y::Float64
+end
+function process_point(point::Point)
+    return point.x + point.y
+end
+# Example of destructuring with named fields
+point = Point(3.0, 4.0)
+result = process_point(point)  # Unpack the struct into the function
+println("Processed point: ", result)
+
+# Infix Operators
+function ⊟(x, y)
+    return sqrt((y[1] -x[1])^2 + (y[2] - x[2])^2)
+end
+# Example of using infix operator
+println("Distance using ⊟: ", (1, 2) ⊟ (4, 6))  # Use the custom infix operator
+# Example of using infix operator with a custom function
+v1 = [0,1]
+v2 = [1,0]
+println("Distance using custom infix operator: ", v1 ⊟ v2)  # Use the custom infix operator
+println(3 .* v1 ⊟ 4 .* v2)  # Use the custom infix operator with scalar multiplication
+
+v1a = [v1, v1, v1]
+v2a = [v1, v2, [0, 0]]
+println("Vectorized distance using custom infix operator: ", v1a .⊟ v2a)  # Use the custom infix operator
+
+# The Mapping, Filtering, and Reduction Operators
+#=The three operators map(), filter(), and reduce() are higher-order
+functions that apply a supplied function to a collection.
+=#
+
+# Map
+function square(x)
+    return x^2
+end
+# Example of using map
+numbers = [1, 2, 3, 4, 5]
+squared_numbers = map(square, numbers)  # Apply the square function to each element
+println("Squared numbers: ", squared_numbers)
