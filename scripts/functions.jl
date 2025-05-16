@@ -86,3 +86,41 @@ end
 numbers = [1, 2, 3, 4, 5]
 squared_numbers = map(square, numbers)  # Apply the square function to each element
 println("Squared numbers: ", squared_numbers)
+
+# Filter
+function is_even(x)
+    return x % 2 == 0
+end
+# Example of using filter
+even_numbers = filter(is_even, numbers)  # Filter even numbers from the list
+println("Even numbers: ", even_numbers)
+
+println("Fittered ASCII characters: ", filter(isascii, "François"))  # Filter ASCII characters
+
+println(filter(x -> x % 2 == 0, 1:10))  # Filter even numbers using a lambda function
+
+
+# Reduce
+function add(x, y)
+    return x + y
+end
+# Example of using reduce
+numbers = [1, 2, 3, 4, 5]
+sum_result = reduce(add, numbers)  # Reduce the list by summing elements
+println("Sum of numbers: ", sum_result)
+
+
+# Mapreduce
+mapreduce(x -> x^2, +, 1:100)  # Map and reduce in one step
+
+# do block
+
+foldl(3:-1:0) do x, y
+    if y == 0
+        return x
+    else
+        return x/y
+    end
+end
+
+# Symbols and Metaprogramming
