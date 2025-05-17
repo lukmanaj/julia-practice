@@ -124,3 +124,48 @@ foldl(3:-1:0) do x, y
 end
 
 # Symbols and Metaprogramming
+## Expression Objects
+# An expression object is a Julia object that represents a piece of code.
+# It can be created using the : operator, which creates a symbol.
+
+#=
+
+Julia has the ability to manipulate Julia code. That’s possible because
+Julia code itself is expressible as a data type that the language can
+operate on, just as it operates on numbers, strings, and arrays. This data
+type is called Expr. Objects with this data type are referred to as Expr
+objects or expression objects. Expression objects are different from
+expressions, which are language forms that return results, such as 3 * 5.
+Expression objects often involve Julia Symbols. We can create a Symbol
+by prepending a colon to a name, as with the attributes, such as :red,
+that we used when making plots. We can convert a string to a symbol
+with the Symbol() function as well: Symbol("red") == :red.
+We can also use colons to construct expression objects by following
+the colon with an expression in parentheses. To reiterate: 3 * 5 is an
+expression, while :(3 * 5) is an expression object. If we enter 3 * 5 in the
+REPL, Julia evaluates the expression and returns 15. If we enter :(3 * 5),
+or any other expression object, it simply returns what we entered.
+In order to evaluate the expression that the Expr object represents, the
+part inside the parentheses, we use the eval() function. If we enter eval(:
+(3 * 5)) in the REPL, Julia returns 15.
+
+=#
+
+ex = quote
+    a = 3
+    a + 2
+end;
+println(typeof(ex)) # Expr
+
+# Expressin Object Interpolation
+ex = :(a + b)
+a = 3
+b = 4
+println(eval(ex))  # Evaluate the expression object
+# Example of expression object interpolation
+ex = :(a + $b)  # Interpolate the value of b into the expression
+println(eval(ex))  # Evaluate the expression object
+
+mkvar(s,v) = eval(:($(Symbol(s)) = $v))  # Create a variable with the given name and value
+mkvar("Lukman",31)  # Create a variable named "Lukman" with value 31
+println(Lukman)  # Access the variable
