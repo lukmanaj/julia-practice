@@ -169,3 +169,57 @@ println(eval(ex))  # Evaluate the expression object
 mkvar(s,v) = eval(:($(Symbol(s)) = $v))  # Create a variable with the given name and value
 mkvar("Lukman",31)  # Create a variable named "Lukman" with value 31
 println(Lukman)  # Access the variable
+
+# Macros
+# Macros are a powerful feature in Julia that allows you to generate code at compile time.
+# They are defined using the @ symbol and can be used to transform code before it is executed.
+# Macros are defined using the macro keyword and can take any number of arguments.
+macro  mkvarmicro(s,v)
+    ss = Symbol(s)
+    return esc(:( $(ss) = $v ))    
+end
+@mkvarmicro("Lukman", 31)  # Create a variable named "Lukman" with value 31
+println(Lukman)  # Access the variable
+
+macro during(condition, body)
+    return quote
+        while $condition
+            $(esc(body))
+        end
+    end
+end
+
+i = 0
+@during i < 10 (println(i^2); i+=1)
+
+
+macro until(condition, body)
+    return quote
+        while !$condition
+            $(esc(body))
+        end
+    end
+end
+
+
+# Useful Macros
+
+## The Broadcast Macro
+
+#=
+We often want to write long expressions in which all, or the
+great majority, of the functions need to be broadcast over their array
+arguments. The broadcast macro frees us from having to sprinkle dots
+everywhere in such an expression—for example:
+
+=#
+
+
+r = 1:10
+b = [r (@. exp(r) > r^4) (exp.(r) .> r.^4)]
+println(b)  # Print the result of the broadcast macro
+
+# @chain macro
+
+# @time macro
+    
