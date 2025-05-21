@@ -222,4 +222,21 @@ println(b)  # Print the result of the broadcast macro
 # @chain macro
 
 # @time macro
-    
+
+# Macros for Information
+#=
+Several macros that provide information about the environment in
+which they are invoked are always available. The @__MODULE__, @__DIR__,
+@__FILE__, and @__LINE__ macros return the module, directory, filepath, and
+line number, respectively, where they are called. These macros can be
+useful for debugging, writing build scripts, code formatting, testing, and
+other purposes. (Each of the macro names in this paragraph begins and
+ends with a double underscore.)
+One essential aid when debugging macros is a macro called
+@macroexpand. Simply prepend it to your macro call, and it will show you
+what the macro is using for each variable and reference.
+=#
+println(@__MODULE__)  # Print the current module
+println(@__DIR__)  # Print the current directory
+println(@__FILE__)  # Print the current file
+println(@__LINE__)  # Print the current line number
