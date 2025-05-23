@@ -35,3 +35,12 @@ function finite_log(x)
     end
     return log(x)
 end
+
+function e(n)
+    if n < 0
+        throw((n, "Got a negative number."))
+    elseif n == 0
+        throw((0, "Got 0."))
+end
+return log(n)
+end
