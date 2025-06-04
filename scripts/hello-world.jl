@@ -182,3 +182,20 @@ elseif n % 2 === 1
 else
 "I only deal with integers."
 end
+
+
+# Multiple Dispatch
+println("Multiple Dispatch:")
+function greet(name::String)
+    return "Hello, $name !"
+end
+function greet(name::Symbol)
+    return "Hello, $(string(name))!"
+end
+function greet(name::Int)
+    return "Hello, person number $name !"
+end
+# Example usage
+println(greet("Alice"))  # String
+println(greet(:Bob))     # Symbol
+println(greet(42))       # Int
